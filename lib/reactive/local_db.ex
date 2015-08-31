@@ -48,7 +48,7 @@ defimpl Reactive.Db, for: Reactive.LocalDb do
       end
     end
 
-    Logger.debug("First iterator move result #{inspect iter_move_result}")
+   # Logger.debug("First iterator move result #{inspect iter_move_result}")
 
     dir = case reverse do
       :true -> :prev
@@ -56,7 +56,7 @@ defimpl Reactive.Db, for: Reactive.LocalDb do
     end
 
     prefixLen=:erlang.byte_size(prefix)
-    rresult=do_scan(iterator,prefix,prefixLen,limit,eend,dir,fetchO,[])
+    rresult=do_scan(iterator,iter_move_result,prefix,prefixLen,limit,eend,dir,fetchO,[])
     :lists.reverse(rresult)
   end
 
@@ -75,14 +75,15 @@ defimpl Reactive.Db, for: Reactive.LocalDb do
   defp do_scan(_iterator,_,_,0,_,_,_,acc) do
     acc
   end
-  defp do_scan(iterator,prefix,prefixLen,limit,eend,dir,fetchOpt,acc) do
-    case :eleveldb.iterator_move(iterator,dir) do
+  defp do_scan(iterator,iter_move_result,prefix,prefixLen,limit,eend,dir,fetchOpt,acc) do
+    case iter_move_result do
       {:ok, bkey, value} ->
         case :erlang.split_binary(bkey,prefixLen) do
           {^prefix,^eend=key} ->
             [fetch(key,value,fetchOpt)|acc]
           {^prefix,key} ->
-            do_scan(iterator,prefix,prefixLen,limit-1,eend,dir,fetchOpt,[fetch(key,value,fetchOpt)|acc])
+            next_iter_move_result=:eleveldb.iterator_move(iterator,dir)
+            do_scan(iterator,next_iter_move_result,prefix,prefixLen,limit-1,eend,dir,fetchOpt,[fetch(key,value,fetchOpt)|acc])
           _ -> acc
         end
       _ -> acc

@@ -1,4 +1,6 @@
 defmodule Reactive.EntitiesIndexDb do
+  require Logger
+
   def create({db,index_name}) do
     ### TODO: Add begin - end
     Reactive.Db.put(db,"ei:" <> index_name <> ":a","entity index begin")
@@ -9,6 +11,7 @@ defmodule Reactive.EntitiesIndexDb do
     raise "not implemented"
   end
   def add({db,index_name},key,entity_id) do
+    Logger.debug("Index #{index_name} ADD #{key} #{inspect entity_id}")
     dbId=Reactive.EntitiesDb.entity_db_id(entity_id)
     keyPrefix="ei:" <> index_name <> ":i:" <> key <> ":"
     Reactive.Db.put(db,keyPrefix <> dbId,:erlang.term_to_binary(entity_id))
@@ -19,9 +22,12 @@ defmodule Reactive.EntitiesIndexDb do
       prefix: keyPrefix,
       fetch: :value
     })
-    Enum.map(values,fn(b) -> :erlang.binary_to_term(b) end)
+    results=Enum.map(values,fn(b) -> :erlang.binary_to_term(b) end)
+    Logger.debug("Index #{index_name} FIND #{key} -> #{inspect results}")
+    results
   end
   def delete({db,index_name},key,entity_id) do
+    Logger.debug("Index #{index_name} DELETE #{key} #{inspect entity_id}")
     dbId=Reactive.EntitiesDb.entity_db_id(entity_id)
     keyPrefix="ei:" <> index_name <> ":i:" <> key <> ":"
     Reactive.Db.delete(db,keyPrefix <> dbId)
