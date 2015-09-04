@@ -1,7 +1,7 @@
 defmodule Reactive.EntitiesDb do
 
   def entity_db_id(_id=[module | args]) do
-    IO.inspect(args)
+    #IO.inspect(args)
     argss = Enum.map( args , fn ( x ) ->  [ :erlang.term_to_binary( x ), ","] end )
     :erlang.iolist_to_binary( ["e:",:erlang.atom_to_list(module),":",argss ] )
   end
