@@ -3,4 +3,5 @@ defprotocol Reactive.Db do
   def get(db,key)
   def delete(db,key)
   def scan(db,opts)
+  def delete_scan(db,opts)
 end
