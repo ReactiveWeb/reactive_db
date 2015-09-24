@@ -38,8 +38,16 @@ defimpl Reactive.Db, for: Reactive.LocalDb do
           :false -> :eleveldb.iterator_move(iterator, :first)
         end
         _ -> case reverse do
-          :true -> :eleveldb.iterator_move(iterator, prefix <>
-            << 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255 >> )
+          :true ->
+            r1=:eleveldb.iterator_move(iterator, prefix <>
+              << 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255 >> )
+            r2 = if r1 == {:error, :invalid_iterator} do
+              :eleveldb.iterator_move(iterator, :last)
+            else
+              :eleveldb.iterator_move(iterator, :prev)
+            end
+            IO.inspect({:im,r1,r2})
+            r2
           :false -> :eleveldb.iterator_move(iterator, prefix)
         end
       end
@@ -58,6 +66,7 @@ defimpl Reactive.Db, for: Reactive.LocalDb do
 
     prefixLen=:erlang.byte_size(prefix)
     rresult=do_scan(iterator,iter_move_result,prefix,prefixLen,limit,eend,dir,fetchO,[])
+    :eleveldb.iterator_close(iterator)
     :lists.reverse(rresult)
   end
 
@@ -131,12 +140,14 @@ defimpl Reactive.Db, for: Reactive.LocalDb do
     end
 
     prefixLen=:erlang.byte_size(prefix)
-    do_delete_scan(ref,iterator,iter_move_result,prefix,prefixLen,limit,eend,dir,0)
+    count=do_delete_scan(ref,iterator,iter_move_result,prefix,prefixLen,limit,eend,dir,0)
+    :eleveldb.iterator_close(iterator)
+    count
   end
 
   defp do_delete_scan(db,iterator,iter_move_result,prefix,prefixLen,limit,eend,dir,acc) do
     case iter_move_result do
-      {:ok, bkey, value} ->
+      {:ok, bkey, value} when byte_size(bkey) >= prefixLen ->
         case :erlang.split_binary(bkey,prefixLen) do
           {^prefix,^eend=key} ->
            # IO.inspect({:delete,bkey})
