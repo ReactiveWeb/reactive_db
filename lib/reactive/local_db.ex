@@ -41,13 +41,11 @@ defimpl Reactive.Db, for: Reactive.LocalDb do
           :true ->
             r1=:eleveldb.iterator_move(iterator, prefix <>
               << 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255 >> )
-            r2 = if r1 == {:error, :invalid_iterator} do
+            if r1 == {:error, :invalid_iterator} do
               :eleveldb.iterator_move(iterator, :last)
             else
               :eleveldb.iterator_move(iterator, :prev)
             end
-            IO.inspect({:im,r1,r2})
-            r2
           :false -> :eleveldb.iterator_move(iterator, prefix)
         end
       end
@@ -121,8 +119,14 @@ defimpl Reactive.Db, for: Reactive.LocalDb do
           :false -> :eleveldb.iterator_move(iterator, :first)
         end
         _ -> case reverse do
-          :true -> :eleveldb.iterator_move(iterator, prefix <>
-            << 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255 >> )
+          :true ->
+            r1=:eleveldb.iterator_move(iterator, prefix <>
+              << 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255 >> )
+            if r1 == {:error, :invalid_iterator} do
+              :eleveldb.iterator_move(iterator, :last)
+            else
+              :eleveldb.iterator_move(iterator, :prev)
+            end
           :false -> :eleveldb.iterator_move(iterator, prefix)
         end
       end
