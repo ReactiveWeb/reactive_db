@@ -30,28 +30,31 @@ defmodule Reactive.LogsDb do
 
   def scan(logRef=%{ db: db, log_id: log_id},from,to,limit \\ 10_000 ,reverse \\ false) do
     {start,climit} = case from do
-                       :begin -> {log_id <> ":a",limit+1}
-                       :end -> {log_id <> ":z",limit+1}
-                       key -> {log_id <> ":l:" <> key,limit}
+                       :begin -> {"a",limit+1}
+                       :end -> {"z",limit+1}
+                       key -> {"l:" <> key,limit}
                      end
     scr=Reactive.Db.scan(db,%{
       :prefix => log_id <> ":",
       :begin => start,
       :end => case to do
-        :begin -> log_id <> ":a"
-        :end -> log_id <> ":z"
-        key -> log_id <> ":l:" <> key
+        :begin -> "a"
+        :end -> "z"
+        key -> "l:" <> key
       end,
       :limit => climit,
       :reverse => reverse
     })
-    lprefix = log_id <> ":m:"
+    #Logger.info("scanr=#{inspect scr}")
+    lprefix = "l:"
     lprefix_size = byte_size(lprefix)
-    :lists.filtermap(fn({fullKey,value}) ->
+    lsr=:lists.filtermap(fn({fullKey,value}) ->
       case fullKey do
-        << ^lprefix :: binary-size(lprefix_size), key >> -> {true,{key,:erlang.binary_to_term(value)}}
+        << ^lprefix :: binary-size(lprefix_size), key :: binary >> -> {true,{key,:erlang.binary_to_term(value)}}
         _ -> false
       end
     end,scr)
+   # Logger.info("log scanr=#{inspect lsr}")
+    lsr
   end
 end
