@@ -1,0 +1,2006 @@
+...
+17:09:56.546 [debug] Search in 1000 meters that found 0 of 0 places took 2652 µs
+
+17:09:56.734 [debug] Search in 2000 meters that found 0 of 0 places took 2828 µs
+
+17:09:56.981 [debug] Search in 3000 meters that found 0 of 0 places took 3268 µs
+
+17:09:57.209 [debug] Search in 4000 meters that found 0 of 0 places took 3232 µs
+
+17:09:57.392 [debug] Search in 5000 meters that found 0 of 0 places took 2875 µs
+
+17:09:57.574 [debug] Search in 6000 meters that found 0 of 0 places took 3311 µs
+
+17:09:57.758 [debug] Search in 7000 meters that found 0 of 0 places took 2473 µs
+
+17:09:57.930 [debug] Search in 8000 meters that found 0 of 0 places took 2334 µs
+
+17:09:58.108 [debug] Search in 9000 meters that found 0 of 0 places took 2792 µs
+
+17:09:58.292 [debug] Search in 10000 meters that found 0 of 0 places took 2676 µs
+
+17:09:58.475 [debug] Search in 11000 meters that found 0 of 0 places took 2877 µs
+
+17:09:58.657 [debug] Search in 12000 meters that found 0 of 0 places took 2650 µs
+
+17:09:58.842 [debug] Search in 13000 meters that found 0 of 0 places took 3130 µs
+
+17:09:59.021 [debug] Search in 14000 meters that found 0 of 0 places took 2957 µs
+
+17:09:59.203 [debug] Search in 15000 meters that found 0 of 0 places took 3052 µs
+
+17:09:59.381 [debug] Search in 16000 meters that found 0 of 0 places took 3406 µs
+
+17:09:59.557 [debug] Search in 17000 meters that found 0 of 0 places took 3092 µs
+
+17:09:59.825 [debug] Search in 18000 meters that found 0 of 0 places took 2441 µs
+
+17:10:00.027 [debug] Search in 19000 meters that found 0 of 0 places took 3743 µs
+
+17:10:00.210 [debug] Search in 20000 meters that found 0 of 0 places took 4199 µs
+
+17:10:00.387 [debug] Search in 21000 meters that found 0 of 0 places took 3456 µs
+
+17:10:00.565 [debug] Search in 22000 meters that found 0 of 0 places took 3098 µs
+
+17:10:00.747 [debug] Search in 23000 meters that found 0 of 0 places took 1871 µs
+
+17:10:00.928 [debug] Search in 24000 meters that found 0 of 0 places took 3182 µs
+
+17:10:01.106 [debug] Search in 25000 meters that found 0 of 0 places took 3322 µs
+
+17:10:01.282 [debug] Search in 26000 meters that found 0 of 0 places took 3504 µs
+
+17:10:01.455 [debug] Search in 27000 meters that found 0 of 0 places took 3419 µs
+
+17:10:01.627 [debug] Search in 28000 meters that found 0 of 0 places took 3116 µs
+
+17:10:01.814 [debug] Search in 29000 meters that found 0 of 0 places took 2997 µs
+
+17:10:02.012 [debug] Search in 30000 meters that found 0 of 0 places took 2896 µs
+
+17:10:02.196 [debug] Search in 31000 meters that found 0 of 0 places took 2839 µs
+
+17:10:02.373 [debug] Search in 32000 meters that found 0 of 0 places took 2761 µs
+
+17:10:02.624 [debug] Search in 33000 meters that found 0 of 0 places took 2319 µs
+
+17:10:02.804 [debug] Search in 34000 meters that found 0 of 0 places took 3289 µs
+
+17:10:02.997 [debug] Search in 35000 meters that found 0 of 0 places took 2738 µs
+
+17:10:03.173 [debug] Search in 36000 meters that found 0 of 0 places took 3023 µs
+
+17:10:03.355 [debug] Search in 37000 meters that found 1 of 1 places took 9666 µs
+
+17:10:03.608 [debug] Search in 38000 meters that found 0 of 0 places took 3604 µs
+
+17:10:03.792 [debug] Search in 39000 meters that found 0 of 0 places took 3191 µs
+
+17:10:03.987 [debug] Search in 40000 meters that found 0 of 0 places took 3323 µs
+
+17:10:04.169 [debug] Search in 41000 meters that found 0 of 0 places took 3192 µs
+
+17:10:04.353 [debug] Search in 42000 meters that found 0 of 0 places took 3354 µs
+
+17:10:04.527 [debug] Search in 43000 meters that found 0 of 0 places took 2258 µs
+
+17:10:04.715 [debug] Search in 44000 meters that found 0 of 0 places took 2999 µs
+
+17:10:04.898 [debug] Search in 45000 meters that found 1 of 1 places took 4216 µs
+
+17:10:05.093 [debug] Search in 46000 meters that found 0 of 0 places took 3617 µs
+
+17:10:05.304 [debug] Search in 47000 meters that found 1 of 1 places took 3802 µs
+
+17:10:05.540 [debug] Search in 48000 meters that found 0 of 0 places took 3336 µs
+
+17:10:05.717 [debug] Search in 49000 meters that found 0 of 0 places took 3254 µs
+
+17:10:05.906 [debug] Search in 50000 meters that found 0 of 0 places took 4223 µs
+
+17:10:06.089 [debug] Search in 51000 meters that found 1 of 1 places took 2159 µs
+
+17:10:06.263 [debug] Search in 52000 meters that found 0 of 0 places took 3372 µs
+
+17:10:06.434 [debug] Search in 53000 meters that found 0 of 0 places took 3037 µs
+
+17:10:06.603 [debug] Search in 54000 meters that found 0 of 0 places took 1912 µs
+
+17:10:06.779 [debug] Search in 55000 meters that found 0 of 0 places took 3035 µs
+
+17:10:06.980 [debug] Search in 56000 meters that found 0 of 0 places took 3462 µs
+
+17:10:07.159 [debug] Search in 57000 meters that found 0 of 0 places took 3204 µs
+
+17:10:07.342 [debug] Search in 58000 meters that found 2 of 2 places took 3430 µs
+
+17:10:07.529 [debug] Search in 59000 meters that found 0 of 0 places took 2893 µs
+
+17:10:07.704 [debug] Search in 60000 meters that found 0 of 0 places took 3346 µs
+
+17:10:07.920 [debug] Search in 61000 meters that found 0 of 0 places took 30404 µs
+
+17:10:08.159 [debug] Search in 62000 meters that found 2 of 2 places took 3333 µs
+
+17:10:08.360 [debug] Search in 63000 meters that found 0 of 0 places took 3107 µs
+
+17:10:08.540 [debug] Search in 64000 meters that found 0 of 0 places took 3473 µs
+
+17:10:08.729 [debug] Search in 65000 meters that found 2 of 2 places took 2853 µs
+
+17:10:08.917 [debug] Search in 66000 meters that found 0 of 0 places took 4472 µs
+
+17:10:09.111 [debug] Search in 67000 meters that found 0 of 0 places took 3597 µs
+
+17:10:09.296 [debug] Search in 68000 meters that found 1 of 1 places took 2744 µs
+
+17:10:09.482 [debug] Search in 69000 meters that found 1 of 1 places took 3532 µs
+
+17:10:09.661 [debug] Search in 70000 meters that found 0 of 0 places took 3708 µs
+
+17:10:09.838 [debug] Search in 71000 meters that found 0 of 0 places took 3383 µs
+
+17:10:10.030 [debug] Search in 72000 meters that found 0 of 0 places took 2755 µs
+
+17:10:10.219 [debug] Search in 73000 meters that found 1 of 1 places took 3188 µs
+
+17:10:10.405 [debug] Search in 74000 meters that found 0 of 0 places took 3610 µs
+
+17:10:10.592 [debug] Search in 75000 meters that found 0 of 0 places took 4476 µs
+
+17:10:10.784 [debug] Search in 76000 meters that found 1 of 1 places took 4038 µs
+
+17:10:11.051 [debug] Search in 77000 meters that found 0 of 0 places took 3530 µs
+
+17:10:11.232 [debug] Search in 78000 meters that found 0 of 0 places took 3991 µs
+
+17:10:11.411 [debug] Search in 79000 meters that found 1 of 1 places took 3837 µs
+
+17:10:11.588 [debug] Search in 80000 meters that found 1 of 1 places took 4608 µs
+
+17:10:11.773 [debug] Search in 81000 meters that found 2 of 2 places took 5340 µs
+
+17:10:11.988 [debug] Search in 82000 meters that found 0 of 0 places took 29024 µs
+
+17:10:12.172 [debug] Search in 83000 meters that found 1 of 1 places took 4008 µs
+
+17:10:12.353 [debug] Search in 84000 meters that found 1 of 1 places took 3775 µs
+
+17:10:12.528 [debug] Search in 85000 meters that found 2 of 2 places took 3017 µs
+
+17:10:12.705 [debug] Search in 86000 meters that found 1 of 1 places took 4146 µs
+
+17:10:12.888 [debug] Search in 87000 meters that found 0 of 0 places took 3937 µs
+
+17:10:13.073 [debug] Search in 88000 meters that found 0 of 0 places took 3167 µs
+
+17:10:13.253 [debug] Search in 89000 meters that found 0 of 0 places took 3720 µs
+
+17:10:13.440 [debug] Search in 90000 meters that found 0 of 0 places took 2650 µs
+
+17:10:13.652 [debug] Search in 91000 meters that found 0 of 0 places took 3417 µs
+
+17:10:13.946 [debug] Search in 92000 meters that found 0 of 0 places took 3591 µs
+
+17:10:14.139 [debug] Search in 93000 meters that found 1 of 1 places took 3647 µs
+
+17:10:14.322 [debug] Search in 94000 meters that found 4 of 4 places took 3486 µs
+
+17:10:14.506 [debug] Search in 95000 meters that found 1 of 1 places took 3687 µs
+
+17:10:14.685 [debug] Search in 96000 meters that found 2 of 2 places took 4220 µs
+
+17:10:14.873 [debug] Search in 97000 meters that found 0 of 0 places took 3963 µs
+
+17:10:15.058 [debug] Search in 98000 meters that found 1 of 1 places took 4701 µs
+
+17:10:15.240 [debug] Search in 99000 meters that found 0 of 0 places took 2802 µs
+
+17:10:15.422 [debug] Search in 100000 meters that found 1 of 1 places took 3470 µs
+
+17:10:15.605 [debug] Search in 101000 meters that found 1 of 1 places took 2621 µs
+
+17:10:15.785 [debug] Search in 102000 meters that found 0 of 0 places took 3479 µs
+
+17:10:15.970 [debug] Search in 103000 meters that found 0 of 0 places took 3565 µs
+
+17:10:16.158 [debug] Search in 104000 meters that found 4 of 4 places took 3654 µs
+
+17:10:16.363 [debug] Search in 105000 meters that found 4 of 4 places took 3000 µs
+
+17:10:16.602 [debug] Search in 106000 meters that found 0 of 0 places took 4436 µs
+
+17:10:16.876 [debug] Search in 107000 meters that found 1 of 1 places took 4546 µs
+
+17:10:17.078 [debug] Search in 108000 meters that found 1 of 1 places took 3347 µs
+
+17:10:17.265 [debug] Search in 109000 meters that found 3 of 3 places took 3967 µs
+
+17:10:17.445 [debug] Search in 110000 meters that found 1 of 1 places took 2412 µs
+
+17:10:17.628 [debug] Search in 111000 meters that found 2 of 2 places took 4507 µs
+
+17:10:17.810 [debug] Search in 112000 meters that found 2 of 2 places took 3449 µs
+
+17:10:17.998 [debug] Search in 113000 meters that found 1 of 1 places took 3119 µs
+
+17:10:18.183 [debug] Search in 114000 meters that found 1 of 1 places took 4575 µs
+
+17:10:18.368 [debug] Search in 115000 meters that found 3 of 3 places took 3748 µs
+
+17:10:18.555 [debug] Search in 116000 meters that found 4 of 4 places took 2860 µs
+
+17:10:18.736 [debug] Search in 117000 meters that found 2 of 2 places took 4064 µs
+
+17:10:18.921 [debug] Search in 118000 meters that found 0 of 0 places took 3877 µs
+
+17:10:19.108 [debug] Search in 119000 meters that found 4 of 4 places took 4109 µs
+
+17:10:19.293 [debug] Search in 120000 meters that found 1 of 1 places took 2855 µs
+
+17:10:19.566 [debug] Search in 121000 meters that found 0 of 0 places took 4545 µs
+
+17:10:19.758 [debug] Search in 122000 meters that found 5 of 5 places took 4386 µs
+
+17:10:19.946 [debug] Search in 123000 meters that found 3 of 3 places took 2653 µs
+
+17:10:20.169 [debug] Search in 124000 meters that found 3 of 3 places took 4145 µs
+
+17:10:20.349 [debug] Search in 125000 meters that found 3 of 3 places took 4187 µs
+
+17:10:20.523 [debug] Search in 126000 meters that found 1 of 1 places took 3732 µs
+
+17:10:20.701 [debug] Search in 127000 meters that found 3 of 3 places took 3125 µs
+
+17:10:20.874 [debug] Search in 128000 meters that found 7 of 7 places took 3212 µs
+
+17:10:21.066 [debug] Search in 129000 meters that found 3 of 3 places took 3899 µs
+
+17:10:21.244 [debug] Search in 130000 meters that found 2 of 2 places took 4205 µs
+
+17:10:21.422 [debug] Search in 131000 meters that found 1 of 1 places took 3673 µs
+
+17:10:21.600 [debug] Search in 132000 meters that found 6 of 6 places took 6524 µs
+
+17:10:21.781 [debug] Search in 133000 meters that found 3 of 3 places took 6838 µs
+
+17:10:21.977 [debug] Search in 134000 meters that found 2 of 2 places took 7003 µs
+
+17:10:22.162 [debug] Search in 135000 meters that found 7 of 7 places took 5012 µs
+
+17:10:22.432 [debug] Search in 136000 meters that found 3 of 3 places took 5664 µs
+
+17:10:22.618 [debug] Search in 137000 meters that found 6 of 6 places took 8887 µs
+
+17:10:22.806 [debug] Search in 138000 meters that found 3 of 3 places took 7083 µs
+
+17:10:22.997 [debug] Search in 139000 meters that found 9 of 9 places took 8067 µs
+
+17:10:23.178 [debug] Search in 140000 meters that found 3 of 3 places took 6045 µs
+
+17:10:23.369 [debug] Search in 141000 meters that found 2 of 2 places took 5976 µs
+
+17:10:23.548 [debug] Search in 142000 meters that found 8 of 8 places took 7025 µs
+
+17:10:23.725 [debug] Search in 143000 meters that found 4 of 4 places took 4329 µs
+
+17:10:23.915 [debug] Search in 144000 meters that found 3 of 3 places took 4816 µs
+
+17:10:24.104 [debug] Search in 145000 meters that found 2 of 2 places took 6784 µs
+
+17:10:24.288 [debug] Search in 146000 meters that found 4 of 4 places took 6270 µs
+
+17:10:24.479 [debug] Search in 147000 meters that found 3 of 3 places took 4426 µs
+
+17:10:24.664 [debug] Search in 148000 meters that found 5 of 5 places took 6279 µs
+
+17:10:24.849 [debug] Search in 149000 meters that found 4 of 4 places took 6033 µs
+
+17:10:25.049 [debug] Search in 150000 meters that found 4 of 4 places took 8731 µs
+
+17:10:25.315 [debug] Search in 151000 meters that found 9 of 9 places took 6778 µs
+
+17:10:25.494 [debug] Search in 152000 meters that found 3 of 3 places took 6858 µs
+
+17:10:25.687 [debug] Search in 153000 meters that found 10 of 10 places took 6907 µs
+
+17:10:25.865 [debug] Search in 154000 meters that found 8 of 8 places took 6010 µs
+
+17:10:26.064 [debug] Search in 155000 meters that found 6 of 6 places took 5872 µs
+
+17:10:26.246 [debug] Search in 156000 meters that found 3 of 3 places took 7019 µs
+
+17:10:26.422 [debug] Search in 157000 meters that found 6 of 6 places took 7143 µs
+
+17:10:26.606 [debug] Search in 158000 meters that found 6 of 6 places took 7207 µs
+
+17:10:26.792 [debug] Search in 159000 meters that found 4 of 4 places took 6524 µs
+
+17:10:26.982 [debug] Search in 160000 meters that found 3 of 3 places took 6037 µs
+
+17:10:27.166 [debug] Search in 161000 meters that found 4 of 4 places took 7001 µs
+
+17:10:27.449 [debug] Search in 162000 meters that found 10 of 10 places took 6461 µs
+
+17:10:27.632 [debug] Search in 163000 meters that found 8 of 8 places took 5696 µs
+
+17:10:27.813 [debug] Search in 164000 meters that found 6 of 6 places took 6874 µs
+
+17:10:28.005 [debug] Search in 165000 meters that found 8 of 8 places took 5921 µs
+
+17:10:28.189 [debug] Search in 166000 meters that found 9 of 9 places took 5048 µs
+
+17:10:28.367 [debug] Search in 167000 meters that found 7 of 7 places took 5362 µs
+
+17:10:28.547 [debug] Search in 168000 meters that found 13 of 13 places took 5872 µs
+
+17:10:28.729 [debug] Search in 169000 meters that found 8 of 8 places took 7363 µs
+
+17:10:28.925 [debug] Search in 170000 meters that found 17 of 17 places took 5967 µs
+
+17:10:29.110 [debug] Search in 171000 meters that found 9 of 9 places took 5704 µs
+
+17:10:29.303 [debug] Search in 172000 meters that found 10 of 10 places took 7720 µs
+
+17:10:29.480 [debug] Search in 173000 meters that found 7 of 7 places took 7696 µs
+
+17:10:29.671 [debug] Search in 174000 meters that found 8 of 8 places took 6769 µs
+
+17:10:29.862 [debug] Search in 175000 meters that found 7 of 7 places took 7344 µs
+
+17:10:30.060 [debug] Search in 176000 meters that found 12 of 12 places took 19678 µs
+
+17:10:30.330 [debug] Search in 177000 meters that found 7 of 7 places took 7086 µs
+
+17:10:30.506 [debug] Search in 178000 meters that found 7 of 7 places took 5065 µs
+
+17:10:30.691 [debug] Search in 179000 meters that found 5 of 5 places took 8085 µs
+
+17:10:30.876 [debug] Search in 180000 meters that found 8 of 8 places took 6180 µs
+
+17:10:31.074 [debug] Search in 181000 meters that found 9 of 9 places took 5390 µs
+
+17:10:31.261 [debug] Search in 182000 meters that found 10 of 10 places took 6434 µs
+
+17:10:31.440 [debug] Search in 183000 meters that found 5 of 5 places took 5219 µs
+
+17:10:31.614 [debug] Search in 184000 meters that found 3 of 3 places took 5495 µs
+
+17:10:31.795 [debug] Search in 185000 meters that found 8 of 8 places took 4848 µs
+
+17:10:31.993 [debug] Search in 186000 meters that found 11 of 11 places took 6844 µs
+
+17:10:32.172 [debug] Search in 187000 meters that found 8 of 8 places took 6625 µs
+
+17:10:32.357 [debug] Search in 188000 meters that found 8 of 8 places took 4646 µs
+
+17:10:32.538 [debug] Search in 189000 meters that found 8 of 8 places took 7372 µs
+
+17:10:32.729 [debug] Search in 190000 meters that found 13 of 13 places took 7383 µs
+
+17:10:32.948 [debug] Search in 191000 meters that found 7 of 7 places took 7539 µs
+
+17:10:33.189 [debug] Search in 192000 meters that found 9 of 9 places took 7888 µs
+
+17:10:33.385 [debug] Search in 193000 meters that found 13 of 13 places took 5638 µs
+
+17:10:33.570 [debug] Search in 194000 meters that found 8 of 8 places took 5538 µs
+
+17:10:33.751 [debug] Search in 195000 meters that found 9 of 9 places took 6014 µs
+
+17:10:33.941 [debug] Search in 196000 meters that found 11 of 11 places took 6398 µs
+
+17:10:34.120 [debug] Search in 197000 meters that found 14 of 14 places took 5358 µs
+
+17:10:34.296 [debug] Search in 198000 meters that found 16 of 16 places took 5851 µs
+
+17:10:34.478 [debug] Search in 199000 meters that found 8 of 8 places took 6124 µs
+
+17:10:34.661 [debug] Search in 200000 meters that found 13 of 13 places took 7141 µs
+
+17:10:34.841 [debug] Search in 201000 meters that found 11 of 11 places took 4448 µs
+
+17:10:35.035 [debug] Search in 202000 meters that found 12 of 12 places took 5307 µs
+
+17:10:35.218 [debug] Search in 203000 meters that found 14 of 14 places took 5700 µs
+
+17:10:35.402 [debug] Search in 204000 meters that found 8 of 8 places took 4148 µs
+
+17:10:35.602 [debug] Search in 205000 meters that found 15 of 15 places took 7152 µs
+
+17:10:35.898 [debug] Search in 206000 meters that found 14 of 14 places took 6990 µs
+
+17:10:36.112 [debug] Search in 207000 meters that found 8 of 8 places took 7130 µs
+
+17:10:36.291 [debug] Search in 208000 meters that found 12 of 12 places took 6588 µs
+
+17:10:36.465 [debug] Search in 209000 meters that found 11 of 11 places took 6820 µs
+
+17:10:36.640 [debug] Search in 210000 meters that found 18 of 18 places took 5308 µs
+
+17:10:36.814 [debug] Search in 211000 meters that found 21 of 21 places took 4301 µs
+
+17:10:37.002 [debug] Search in 212000 meters that found 6 of 6 places took 5544 µs
+
+17:10:37.181 [debug] Search in 213000 meters that found 11 of 11 places took 6092 µs
+
+17:10:37.358 [debug] Search in 214000 meters that found 16 of 16 places took 6390 µs
+
+17:10:37.537 [debug] Search in 215000 meters that found 16 of 16 places took 6428 µs
+
+17:10:37.717 [debug] Search in 216000 meters that found 16 of 16 places took 5999 µs
+
+17:10:37.905 [debug] Search in 217000 meters that found 18 of 18 places took 7309 µs
+
+17:10:38.127 [debug] Search in 218000 meters that found 16 of 16 places took 43789 µs
+
+17:10:38.309 [debug] Search in 219000 meters that found 20 of 20 places took 7114 µs
+
+17:10:38.503 [debug] Search in 220000 meters that found 17 of 17 places took 6433 µs
+
+17:10:38.787 [debug] Search in 221000 meters that found 12 of 12 places took 5162 µs
+
+17:10:38.976 [debug] Search in 222000 meters that found 10 of 10 places took 3972 µs
+
+17:10:39.165 [debug] Search in 223000 meters that found 12 of 12 places took 6715 µs
+
+17:10:39.345 [debug] Search in 224000 meters that found 21 of 21 places took 5885 µs
+
+17:10:39.524 [debug] Search in 225000 meters that found 17 of 17 places took 4301 µs
+
+17:10:39.714 [debug] Search in 226000 meters that found 23 of 23 places took 7195 µs
+
+17:10:39.897 [debug] Search in 227000 meters that found 17 of 17 places took 7126 µs
+
+17:10:40.085 [debug] Search in 228000 meters that found 17 of 17 places took 7447 µs
+
+17:10:40.267 [debug] Search in 229000 meters that found 21 of 21 places took 4391 µs
+
+17:10:40.456 [debug] Search in 230000 meters that found 18 of 18 places took 6737 µs
+
+17:10:40.646 [debug] Search in 231000 meters that found 16 of 16 places took 7128 µs
+
+17:10:40.832 [debug] Search in 232000 meters that found 21 of 21 places took 6168 µs
+
+17:10:41.025 [debug] Search in 233000 meters that found 19 of 19 places took 5879 µs
+
+17:10:41.213 [debug] Search in 234000 meters that found 17 of 17 places took 5414 µs
+
+17:10:41.393 [debug] Search in 235000 meters that found 18 of 18 places took 4566 µs
+
+17:10:41.665 [debug] Search in 236000 meters that found 23 of 23 places took 6728 µs
+
+17:10:41.853 [debug] Search in 237000 meters that found 16 of 16 places took 5886 µs
+
+17:10:42.046 [debug] Search in 238000 meters that found 20 of 20 places took 7689 µs
+
+17:10:42.228 [debug] Search in 239000 meters that found 23 of 23 places took 5989 µs
+
+17:10:42.409 [debug] Search in 240000 meters that found 13 of 13 places took 6116 µs
+
+17:10:42.600 [debug] Search in 241000 meters that found 24 of 24 places took 5347 µs
+
+17:10:42.778 [debug] Search in 242000 meters that found 26 of 26 places took 6772 µs
+
+17:10:42.961 [debug] Search in 243000 meters that found 23 of 23 places took 7237 µs
+
+17:10:43.151 [debug] Search in 244000 meters that found 31 of 31 places took 6969 µs
+
+17:10:43.337 [debug] Search in 245000 meters that found 25 of 25 places took 6887 µs
+
+17:10:43.517 [debug] Search in 246000 meters that found 21 of 21 places took 5395 µs
+
+17:10:43.701 [debug] Search in 247000 meters that found 28 of 28 places took 4010 µs
+
+17:10:43.887 [debug] Search in 248000 meters that found 25 of 25 places took 5918 µs
+
+17:10:44.080 [debug] Search in 249000 meters that found 30 of 30 places took 7299 µs
+
+17:10:44.304 [debug] Search in 250000 meters that found 17 of 17 places took 5184 µs
+
+17:10:44.544 [debug] Search in 251000 meters that found 23 of 23 places took 6203 µs
+
+17:10:44.733 [debug] Search in 252000 meters that found 23 of 23 places took 6295 µs
+
+17:10:44.913 [debug] Search in 253000 meters that found 32 of 32 places took 7797 µs
+
+17:10:45.104 [debug] Search in 254000 meters that found 21 of 21 places took 6176 µs
+
+17:10:45.292 [debug] Search in 255000 meters that found 28 of 28 places took 6655 µs
+
+17:10:45.470 [debug] Search in 256000 meters that found 18 of 18 places took 5396 µs
+
+17:10:45.658 [debug] Search in 257000 meters that found 21 of 21 places took 5518 µs
+
+17:10:45.845 [debug] Search in 258000 meters that found 27 of 27 places took 6626 µs
+
+17:10:46.038 [debug] Search in 259000 meters that found 15 of 15 places took 6077 µs
+
+17:10:46.213 [debug] Search in 260000 meters that found 30 of 30 places took 4301 µs
+
+17:10:46.401 [debug] Search in 261000 meters that found 31 of 31 places took 4577 µs
+
+17:10:46.585 [debug] Search in 262000 meters that found 33 of 33 places took 7169 µs
+
+17:10:46.768 [debug] Search in 263000 meters that found 21 of 21 places took 8921 µs
+
+17:10:46.979 [debug] Search in 264000 meters that found 37 of 37 places took 24733 µs
+
+17:10:47.270 [debug] Search in 265000 meters that found 33 of 33 places took 16997 µs
+
+17:10:47.462 [debug] Search in 266000 meters that found 13 of 13 places took 13863 µs
+
+17:10:47.653 [debug] Search in 267000 meters that found 17 of 17 places took 13307 µs
+
+17:10:47.855 [debug] Search in 268000 meters that found 22 of 22 places took 22268 µs
+
+17:10:48.049 [debug] Search in 269000 meters that found 29 of 29 places took 19590 µs
+
+17:10:48.243 [debug] Search in 270000 meters that found 23 of 23 places took 20247 µs
+
+17:10:48.443 [debug] Search in 271000 meters that found 27 of 27 places took 20975 µs
+
+17:10:48.642 [debug] Search in 272000 meters that found 27 of 27 places took 19952 µs
+
+17:10:48.831 [debug] Search in 273000 meters that found 28 of 28 places took 11949 µs
+
+17:10:49.039 [debug] Search in 274000 meters that found 29 of 29 places took 15926 µs
+
+17:10:49.235 [debug] Search in 275000 meters that found 28 of 28 places took 20492 µs
+
+17:10:49.440 [debug] Search in 276000 meters that found 39 of 39 places took 21929 µs
+
+17:10:49.634 [debug] Search in 277000 meters that found 33 of 33 places took 21985 µs
+
+17:10:49.842 [debug] Search in 278000 meters that found 25 of 25 places took 24650 µs
+
+17:10:50.135 [debug] Search in 279000 meters that found 23 of 23 places took 17889 µs
+
+17:10:50.331 [debug] Search in 280000 meters that found 39 of 39 places took 17716 µs
+
+17:10:50.526 [debug] Search in 281000 meters that found 26 of 26 places took 19980 µs
+
+17:10:50.736 [debug] Search in 282000 meters that found 33 of 33 places took 19696 µs
+
+17:10:50.928 [debug] Search in 283000 meters that found 35 of 35 places took 19687 µs
+
+17:10:51.132 [debug] Search in 284000 meters that found 37 of 37 places took 21900 µs
+
+17:10:51.322 [debug] Search in 285000 meters that found 33 of 33 places took 19752 µs
+
+17:10:51.518 [debug] Search in 286000 meters that found 43 of 43 places took 18849 µs
+
+17:10:51.704 [debug] Search in 287000 meters that found 43 of 43 places took 20319 µs
+
+17:10:51.911 [debug] Search in 288000 meters that found 37 of 37 places took 21147 µs
+
+17:10:52.108 [debug] Search in 289000 meters that found 36 of 36 places took 20297 µs
+
+17:10:52.313 [debug] Search in 290000 meters that found 43 of 43 places took 23400 µs
+
+17:10:52.505 [debug] Search in 291000 meters that found 30 of 30 places took 15521 µs
+
+17:10:52.724 [debug] Search in 292000 meters that found 30 of 30 places took 24289 µs
+
+17:10:53.047 [debug] Search in 293000 meters that found 33 of 33 places took 27059 µs
+
+17:10:53.263 [debug] Search in 294000 meters that found 34 of 34 places took 25141 µs
+
+17:10:53.454 [debug] Search in 295000 meters that found 30 of 30 places took 16032 µs
+
+17:10:53.654 [debug] Search in 296000 meters that found 47 of 47 places took 22790 µs
+
+17:10:53.862 [debug] Search in 297000 meters that found 37 of 37 places took 25949 µs
+
+17:10:54.071 [debug] Search in 298000 meters that found 41 of 41 places took 23836 µs
+
+17:10:54.274 [debug] Search in 299000 meters that found 40 of 40 places took 24567 µs
+
+17:10:54.516 [debug] Search in 300000 meters that found 45 of 45 places took 23517 µs
+
+17:10:54.720 [debug] Search in 301000 meters that found 42 of 42 places took 21341 µs
+
+17:10:54.928 [debug] Search in 302000 meters that found 36 of 36 places took 19811 µs
+
+17:10:55.136 [debug] Search in 303000 meters that found 38 of 38 places took 24291 µs
+
+17:10:55.350 [debug] Search in 304000 meters that found 34 of 34 places took 22776 µs
+
+17:10:55.596 [debug] Search in 305000 meters that found 49 of 49 places took 28358 µs
+
+17:10:55.850 [debug] Search in 306000 meters that found 34 of 34 places took 31276 µs
+
+17:10:56.188 [debug] Search in 307000 meters that found 37 of 37 places took 28158 µs
+
+17:10:56.406 [debug] Search in 308000 meters that found 47 of 47 places took 21946 µs
+
+17:10:56.614 [debug] Search in 309000 meters that found 34 of 34 places took 23133 µs
+
+17:10:56.820 [debug] Search in 310000 meters that found 45 of 45 places took 23120 µs
+
+17:10:57.022 [debug] Search in 311000 meters that found 49 of 49 places took 13588 µs
+
+17:10:57.229 [debug] Search in 312000 meters that found 44 of 44 places took 20998 µs
+
+17:10:57.425 [debug] Search in 313000 meters that found 46 of 46 places took 14852 µs
+
+17:10:57.625 [debug] Search in 314000 meters that found 47 of 47 places took 22429 µs
+
+17:10:57.828 [debug] Search in 315000 meters that found 47 of 47 places took 23071 µs
+
+17:10:58.039 [debug] Search in 316000 meters that found 42 of 42 places took 22255 µs
+
+17:10:58.244 [debug] Search in 317000 meters that found 53 of 53 places took 23667 µs
+
+17:10:58.477 [debug] Search in 318000 meters that found 38 of 38 places took 27339 µs
+
+17:10:58.717 [debug] Search in 319000 meters that found 38 of 38 places took 19093 µs
+
+17:10:59.056 [debug] Search in 320000 meters that found 52 of 52 places took 27138 µs
+
+17:10:59.295 [debug] Search in 321000 meters that found 49 of 49 places took 28077 µs
+
+17:10:59.523 [debug] Search in 322000 meters that found 36 of 36 places took 17286 µs
+
+17:10:59.749 [debug] Search in 323000 meters that found 63 of 63 places took 25237 µs
+
+17:10:59.967 [debug] Search in 324000 meters that found 55 of 55 places took 17394 µs
+
+17:11:00.200 [debug] Search in 325000 meters that found 40 of 40 places took 29716 µs
+
+17:11:00.445 [debug] Search in 326000 meters that found 56 of 56 places took 35251 µs
+
+17:11:00.666 [debug] Search in 327000 meters that found 62 of 62 places took 20928 µs
+
+17:11:00.870 [debug] Search in 328000 meters that found 43 of 43 places took 14204 µs
+
+17:11:01.082 [debug] Search in 329000 meters that found 56 of 56 places took 19698 µs
+
+17:11:01.312 [debug] Search in 330000 meters that found 53 of 53 places took 25828 µs
+
+17:11:01.559 [debug] Search in 331000 meters that found 50 of 50 places took 28565 µs
+
+17:11:01.824 [debug] Search in 332000 meters that found 42 of 42 places took 31494 µs
+
+17:11:02.158 [debug] Search in 333000 meters that found 44 of 44 places took 13806 µs
+
+17:11:02.378 [debug] Search in 334000 meters that found 59 of 59 places took 23323 µs
+
+17:11:02.598 [debug] Search in 335000 meters that found 55 of 55 places took 20169 µs
+
+17:11:02.813 [debug] Search in 336000 meters that found 67 of 67 places took 26187 µs
+
+17:11:03.038 [debug] Search in 337000 meters that found 70 of 70 places took 26279 µs
+
+17:11:03.259 [debug] Search in 338000 meters that found 58 of 58 places took 23298 µs
+
+17:11:03.468 [debug] Search in 339000 meters that found 59 of 59 places took 22516 µs
+
+17:11:03.680 [debug] Search in 340000 meters that found 59 of 59 places took 24387 µs
+
+17:11:03.895 [debug] Search in 341000 meters that found 68 of 68 places took 23394 µs
+
+17:11:04.110 [debug] Search in 342000 meters that found 39 of 39 places took 16174 µs
+
+17:11:04.325 [debug] Search in 343000 meters that found 43 of 43 places took 18517 µs
+
+17:11:04.562 [debug] Search in 344000 meters that found 65 of 65 places took 29508 µs
+
+17:11:04.838 [debug] Search in 345000 meters that found 78 of 78 places took 27458 µs
+
+17:11:05.198 [debug] Search in 346000 meters that found 62 of 62 places took 29477 µs
+
+17:11:05.427 [debug] Search in 347000 meters that found 67 of 67 places took 22029 µs
+
+17:11:05.626 [debug] Search in 348000 meters that found 70 of 70 places took 20597 µs
+
+17:11:05.841 [debug] Search in 349000 meters that found 73 of 73 places took 22507 µs
+
+17:11:06.064 [debug] Search in 350000 meters that found 72 of 72 places took 23748 µs
+
+17:11:06.274 [debug] Search in 351000 meters that found 55 of 55 places took 23501 µs
+
+17:11:06.475 [debug] Search in 352000 meters that found 66 of 66 places took 20156 µs
+
+17:11:06.676 [debug] Search in 353000 meters that found 56 of 56 places took 22617 µs
+
+17:11:06.882 [debug] Search in 354000 meters that found 57 of 57 places took 17507 µs
+
+17:11:07.102 [debug] Search in 355000 meters that found 69 of 69 places took 24210 µs
+
+17:11:07.321 [debug] Search in 356000 meters that found 66 of 66 places took 29998 µs
+
+17:11:07.523 [debug] Search in 357000 meters that found 71 of 71 places took 17220 µs
+
+17:11:07.770 [debug] Search in 358000 meters that found 54 of 54 places took 31136 µs
+
+17:11:08.060 [debug] Search in 359000 meters that found 69 of 69 places took 30349 µs
+
+17:11:08.370 [debug] Search in 360000 meters that found 90 of 90 places took 25443 µs
+
+17:11:08.586 [debug] Search in 361000 meters that found 65 of 65 places took 24064 µs
+
+17:11:08.798 [debug] Search in 362000 meters that found 89 of 89 places took 21147 µs
+
+17:11:09.005 [debug] Search in 363000 meters that found 81 of 81 places took 21175 µs
+
+17:11:09.201 [debug] Search in 364000 meters that found 84 of 84 places took 19840 µs
+
+17:11:09.405 [debug] Search in 365000 meters that found 79 of 79 places took 23624 µs
+
+17:11:09.602 [debug] Search in 366000 meters that found 40 of 40 places took 12958 µs
+
+17:11:09.817 [debug] Search in 367000 meters that found 78 of 78 places took 26620 µs
+
+17:11:10.037 [debug] Search in 368000 meters that found 86 of 86 places took 18450 µs
+
+17:11:10.249 [debug] Search in 369000 meters that found 86 of 86 places took 30375 µs
+
+17:11:10.473 [debug] Search in 370000 meters that found 75 of 75 places took 24929 µs
+
+17:11:10.735 [debug] Search in 371000 meters that found 78 of 78 places took 30582 µs
+
+17:11:10.991 [debug] Search in 372000 meters that found 61 of 61 places took 29910 µs
+
+17:11:11.340 [debug] Search in 373000 meters that found 84 of 84 places took 25617 µs
+
+17:11:11.556 [debug] Search in 374000 meters that found 70 of 70 places took 24441 µs
+
+17:11:11.771 [debug] Search in 375000 meters that found 88 of 88 places took 23747 µs
+
+17:11:11.985 [debug] Search in 376000 meters that found 79 of 79 places took 17350 µs
+
+17:11:12.189 [debug] Search in 377000 meters that found 59 of 59 places took 13196 µs
+
+17:11:12.398 [debug] Search in 378000 meters that found 89 of 89 places took 22031 µs
+
+17:11:12.603 [debug] Search in 379000 meters that found 104 of 104 places took 22165 µs
+
+17:11:12.816 [debug] Search in 380000 meters that found 98 of 98 places took 19514 µs
+
+17:11:13.033 [debug] Search in 381000 meters that found 69 of 69 places took 14159 µs
+
+17:11:13.241 [debug] Search in 382000 meters that found 86 of 86 places took 19567 µs
+
+17:11:13.445 [debug] Search in 383000 meters that found 63 of 63 places took 22492 µs
+
+17:11:13.664 [debug] Search in 384000 meters that found 81 of 81 places took 25784 µs
+
+17:11:13.908 [debug] Search in 385000 meters that found 91 of 91 places took 26134 µs
+
+17:11:14.208 [debug] Search in 386000 meters that found 83 of 83 places took 30038 µs
+
+17:11:14.473 [debug] Search in 387000 meters that found 84 of 84 places took 15442 µs
+
+17:11:14.683 [debug] Search in 388000 meters that found 99 of 99 places took 23569 µs
+
+17:11:14.911 [debug] Search in 389000 meters that found 81 of 81 places took 25892 µs
+
+17:11:15.133 [debug] Search in 390000 meters that found 98 of 98 places took 23054 µs
+
+17:11:15.355 [debug] Search in 391000 meters that found 92 of 92 places took 27502 µs
+
+17:11:15.571 [debug] Search in 392000 meters that found 81 of 81 places took 28622 µs
+
+17:11:15.824 [debug] Search in 393000 meters that found 86 of 86 places took 32802 µs
+
+17:11:16.078 [debug] Search in 394000 meters that found 85 of 85 places took 26501 µs
+
+17:11:16.398 [debug] Search in 395000 meters that found 91 of 91 places took 14511 µs
+
+17:11:16.599 [debug] Search in 396000 meters that found 117 of 117 places took 19444 µs
+
+17:11:16.800 [debug] Search in 397000 meters that found 111 of 111 places took 27430 µs
+
+17:11:17.006 [debug] Search in 398000 meters that found 50 of 50 places took 10760 µs
+
+17:11:17.209 [debug] Search in 399000 meters that found 105 of 105 places took 16134 µs
+
+17:11:17.407 [debug] Search in 400000 meters that found 76 of 76 places took 14023 µs
+
+17:11:17.603 [debug] Search in 401000 meters that found 95 of 95 places took 20004 µs
+
+17:11:17.798 [debug] Search in 402000 meters that found 91 of 91 places took 19201 µs
+
+17:11:17.998 [debug] Search in 403000 meters that found 91 of 91 places took 16665 µs
+
+17:11:18.195 [debug] Search in 404000 meters that found 96 of 96 places took 19447 µs
+
+17:11:18.397 [debug] Search in 405000 meters that found 86 of 86 places took 19944 µs
+
+17:11:18.585 [debug] Search in 406000 meters that found 107 of 107 places took 19290 µs
+
+17:11:18.779 [debug] Search in 407000 meters that found 60 of 60 places took 16375 µs
+
+17:11:18.994 [debug] Search in 408000 meters that found 96 of 96 places took 22452 µs
+
+17:11:19.297 [debug] Search in 409000 meters that found 113 of 113 places took 15941 µs
+
+17:11:19.500 [debug] Search in 410000 meters that found 102 of 102 places took 18493 µs
+
+17:11:19.691 [debug] Search in 411000 meters that found 117 of 117 places took 19002 µs
+
+17:11:19.890 [debug] Search in 412000 meters that found 103 of 103 places took 17331 µs
+
+17:11:20.082 [debug] Search in 413000 meters that found 77 of 77 places took 16060 µs
+
+17:11:20.273 [debug] Search in 414000 meters that found 98 of 98 places took 18229 µs
+
+17:11:20.456 [debug] Search in 415000 meters that found 117 of 117 places took 15900 µs
+
+17:11:20.652 [debug] Search in 416000 meters that found 111 of 111 places took 22073 µs
+
+17:11:20.848 [debug] Search in 417000 meters that found 113 of 113 places took 21882 µs
+
+17:11:21.047 [debug] Search in 418000 meters that found 77 of 77 places took 13838 µs
+
+17:11:21.249 [debug] Search in 419000 meters that found 123 of 123 places took 18656 µs
+
+17:11:21.441 [debug] Search in 420000 meters that found 117 of 117 places took 22590 µs
+
+17:11:21.632 [debug] Search in 421000 meters that found 116 of 116 places took 22293 µs
+
+17:11:21.824 [debug] Search in 422000 meters that found 130 of 130 places took 18086 µs
+
+17:11:22.132 [debug] Search in 423000 meters that found 117 of 117 places took 21936 µs
+
+17:11:22.323 [debug] Search in 424000 meters that found 118 of 118 places took 16918 µs
+
+17:11:22.521 [debug] Search in 425000 meters that found 120 of 120 places took 17133 µs
+
+17:11:22.718 [debug] Search in 426000 meters that found 121 of 121 places took 20130 µs
+
+17:11:22.927 [debug] Search in 427000 meters that found 115 of 115 places took 21687 µs
+
+17:11:23.128 [debug] Search in 428000 meters that found 133 of 133 places took 19199 µs
+
+17:11:23.329 [debug] Search in 429000 meters that found 126 of 126 places took 18354 µs
+
+17:11:23.519 [debug] Search in 430000 meters that found 109 of 109 places took 12250 µs
+
+17:11:23.706 [debug] Search in 431000 meters that found 73 of 73 places took 8373 µs
+
+17:11:23.892 [debug] Search in 432000 meters that found 123 of 123 places took 15887 µs
+
+17:11:24.092 [debug] Search in 433000 meters that found 135 of 135 places took 18560 µs
+
+17:11:24.279 [debug] Search in 434000 meters that found 129 of 129 places took 18356 µs
+
+17:11:24.482 [debug] Search in 435000 meters that found 132 of 132 places took 25347 µs
+
+17:11:24.677 [debug] Search in 436000 meters that found 130 of 130 places took 15062 µs
+
+17:11:25.018 [debug] Search in 437000 meters that found 157 of 157 places took 24458 µs
+
+17:11:25.219 [debug] Search in 438000 meters that found 138 of 138 places took 21555 µs
+
+17:11:25.400 [debug] Search in 439000 meters that found 65 of 65 places took 13949 µs
+
+17:11:25.600 [debug] Search in 440000 meters that found 131 of 131 places took 20132 µs
+
+17:11:25.808 [debug] Search in 441000 meters that found 144 of 144 places took 20051 µs
+
+17:11:25.999 [debug] Search in 442000 meters that found 123 of 123 places took 17518 µs
+
+17:11:26.197 [debug] Search in 443000 meters that found 118 of 118 places took 20942 µs
+
+17:11:26.399 [debug] Search in 444000 meters that found 130 of 130 places took 19214 µs
+
+17:11:26.595 [debug] Search in 445000 meters that found 128 of 128 places took 14503 µs
+
+17:11:26.794 [debug] Search in 446000 meters that found 135 of 135 places took 19371 µs
+
+17:11:26.999 [debug] Search in 447000 meters that found 121 of 121 places took 22447 µs
+
+17:11:27.197 [debug] Search in 448000 meters that found 131 of 131 places took 20934 µs
+
+17:11:27.397 [debug] Search in 449000 meters that found 137 of 137 places took 22120 µs
+
+17:11:27.603 [debug] Search in 450000 meters that found 134 of 134 places took 24578 µs
+
+17:11:27.900 [debug] Search in 451000 meters that found 109 of 109 places took 13181 µs
+
+17:11:28.105 [debug] Search in 452000 meters that found 141 of 141 places took 16871 µs
+
+17:11:28.300 [debug] Search in 453000 meters that found 158 of 158 places took 19287 µs
+
+17:11:28.494 [debug] Search in 454000 meters that found 161 of 161 places took 19360 µs
+
+17:11:28.688 [debug] Search in 455000 meters that found 151 of 151 places took 18363 µs
+
+17:11:28.884 [debug] Search in 456000 meters that found 165 of 165 places took 20819 µs
+
+17:11:29.084 [debug] Search in 457000 meters that found 133 of 133 places took 20120 µs
+
+17:11:29.272 [debug] Search in 458000 meters that found 162 of 162 places took 17980 µs
+
+17:11:29.457 [debug] Search in 459000 meters that found 144 of 144 places took 18271 µs
+
+17:11:29.652 [debug] Search in 460000 meters that found 140 of 140 places took 20452 µs
+
+17:11:29.836 [debug] Search in 461000 meters that found 151 of 151 places took 20609 µs
+
+17:11:30.030 [debug] Search in 462000 meters that found 154 of 154 places took 18310 µs
+
+17:11:30.228 [debug] Search in 463000 meters that found 148 of 148 places took 24052 µs
+
+17:11:30.428 [debug] Search in 464000 meters that found 167 of 167 places took 22255 µs
+
+17:11:30.714 [debug] Search in 465000 meters that found 125 of 125 places took 22640 µs
+
+17:11:30.926 [debug] Search in 466000 meters that found 157 of 157 places took 20941 µs
+
+17:11:31.122 [debug] Search in 467000 meters that found 136 of 136 places took 17105 µs
+
+17:11:31.323 [debug] Search in 468000 meters that found 186 of 186 places took 16659 µs
+
+17:11:31.512 [debug] Search in 469000 meters that found 138 of 138 places took 18847 µs
+
+17:11:31.706 [debug] Search in 470000 meters that found 157 of 157 places took 16867 µs
+
+17:11:31.897 [debug] Search in 471000 meters that found 129 of 129 places took 14849 µs
+
+17:11:32.110 [debug] Search in 472000 meters that found 177 of 177 places took 21578 µs
+
+17:11:32.410 [debug] Search in 473000 meters that found 146 of 146 places took 40227 µs
+
+17:11:32.639 [debug] Search in 474000 meters that found 165 of 165 places took 19249 µs
+
+17:11:32.832 [debug] Search in 475000 meters that found 169 of 169 places took 19022 µs
+
+17:11:33.040 [debug] Search in 476000 meters that found 185 of 185 places took 16695 µs
+
+17:11:33.228 [debug] Search in 477000 meters that found 142 of 142 places took 10011 µs
+
+17:11:33.418 [debug] Search in 478000 meters that found 171 of 171 places took 16376 µs
+
+17:11:33.600 [debug] Search in 479000 meters that found 81 of 81 places took 8499 µs
+
+17:11:33.796 [debug] Search in 480000 meters that found 163 of 163 places took 20506 µs
+
+17:11:33.997 [debug] Search in 481000 meters that found 179 of 179 places took 20994 µs
+
+17:11:34.189 [debug] Search in 482000 meters that found 188 of 188 places took 19163 µs
+
+17:11:34.381 [debug] Search in 483000 meters that found 164 of 164 places took 18526 µs
+
+17:11:34.586 [debug] Search in 484000 meters that found 157 of 157 places took 19729 µs
+
+17:11:34.770 [debug] Search in 485000 meters that found 137 of 137 places took 16148 µs
+
+17:11:34.967 [debug] Search in 486000 meters that found 185 of 185 places took 17626 µs
+
+17:11:35.232 [debug] Search in 487000 meters that found 191 of 191 places took 25611 µs
+
+17:11:35.472 [debug] Search in 488000 meters that found 169 of 169 places took 19537 µs
+
+17:11:35.658 [debug] Search in 489000 meters that found 167 of 167 places took 17237 µs
+
+17:11:35.843 [debug] Search in 490000 meters that found 105 of 105 places took 11381 µs
+
+17:11:36.031 [debug] Search in 491000 meters that found 78 of 78 places took 9446 µs
+
+17:11:36.221 [debug] Search in 492000 meters that found 184 of 184 places took 18032 µs
+
+17:11:36.411 [debug] Search in 493000 meters that found 192 of 192 places took 20562 µs
+
+17:11:36.597 [debug] Search in 494000 meters that found 188 of 188 places took 16488 µs
+
+17:11:36.790 [debug] Search in 495000 meters that found 189 of 189 places took 19518 µs
+
+17:11:36.987 [debug] Search in 496000 meters that found 189 of 189 places took 20614 µs
+
+17:11:37.178 [debug] Search in 497000 meters that found 193 of 193 places took 18364 µs
+
+17:11:37.368 [debug] Search in 498000 meters that found 191 of 191 places took 18009 µs
+
+17:11:37.552 [debug] Search in 499000 meters that found 203 of 203 places took 19217 µs
+
+17:11:37.747 [debug] Search in 500000 meters that found 171 of 171 places took 18912 µs
+
+17:11:37.958 [debug] Search in 501000 meters that found 201 of 201 places took 24348 µs
+
+17:11:38.266 [debug] Search in 502000 meters that found 206 of 206 places took 20498 µs
+
+17:11:38.463 [debug] Search in 503000 meters that found 217 of 217 places took 17678 µs
+
+17:11:38.651 [debug] Search in 504000 meters that found 199 of 199 places took 16996 µs
+
+17:11:38.832 [debug] Search in 505000 meters that found 150 of 150 places took 13817 µs
+
+17:11:39.032 [debug] Search in 506000 meters that found 200 of 200 places took 19192 µs
+
+17:11:39.219 [debug] Search in 507000 meters that found 148 of 148 places took 11876 µs
+
+17:11:39.406 [debug] Search in 508000 meters that found 195 of 195 places took 19408 µs
+
+17:11:39.589 [debug] Search in 509000 meters that found 198 of 198 places took 17801 µs
+
+17:11:39.770 [debug] Search in 510000 meters that found 193 of 193 places took 15416 µs
+
+17:11:39.963 [debug] Search in 511000 meters that found 209 of 209 places took 18894 µs
+
+17:11:40.159 [debug] Search in 512000 meters that found 211 of 211 places took 18398 µs
+
+17:11:40.357 [debug] Search in 513000 meters that found 217 of 217 places took 23689 µs
+
+17:11:40.549 [debug] Search in 514000 meters that found 192 of 192 places took 19619 µs
+
+17:11:40.758 [debug] Search in 515000 meters that found 209 of 209 places took 21351 µs
+
+17:11:41.074 [debug] Search in 516000 meters that found 232 of 232 places took 23781 µs
+
+17:11:41.278 [debug] Search in 517000 meters that found 221 of 221 places took 20311 µs
+
+17:11:41.463 [debug] Search in 518000 meters that found 248 of 248 places took 16441 µs
+
+17:11:41.660 [debug] Search in 519000 meters that found 232 of 232 places took 20318 µs
+
+17:11:41.841 [debug] Search in 520000 meters that found 237 of 237 places took 17596 µs
+
+17:11:42.039 [debug] Search in 521000 meters that found 191 of 191 places took 16048 µs
+
+17:11:42.233 [debug] Search in 522000 meters that found 194 of 194 places took 17672 µs
+
+17:11:42.411 [debug] Search in 523000 meters that found 236 of 236 places took 13697 µs
+
+17:11:42.595 [debug] Search in 524000 meters that found 211 of 211 places took 17633 µs
+
+17:11:42.847 [debug] Search in 525000 meters that found 222 of 222 places took 83747 µs
+
+17:11:43.104 [debug] Search in 526000 meters that found 212 of 212 places took 83341 µs
+
+17:11:43.380 [debug] Search in 527000 meters that found 157 of 157 places took 106561 µs
+
+17:11:43.665 [debug] Search in 528000 meters that found 207 of 207 places took 79378 µs
+
+17:11:44.062 [debug] Search in 529000 meters that found 245 of 245 places took 183201 µs
+
+17:11:44.405 [debug] Search in 530000 meters that found 229 of 229 places took 121603 µs
+
+17:11:44.716 [debug] Search in 531000 meters that found 190 of 190 places took 129605 µs
+
+17:11:45.014 [debug] Search in 532000 meters that found 238 of 238 places took 121634 µs
+
+17:11:45.245 [debug] Search in 533000 meters that found 148 of 148 places took 45662 µs
+
+17:11:45.564 [debug] Search in 534000 meters that found 229 of 229 places took 138465 µs
+
+17:11:45.855 [debug] Search in 535000 meters that found 285 of 285 places took 120012 µs
+
+17:11:46.173 [debug] Search in 536000 meters that found 239 of 239 places took 128915 µs
+
+17:11:46.487 [debug] Search in 537000 meters that found 234 of 234 places took 141190 µs
+
+17:11:46.818 [debug] Search in 538000 meters that found 240 of 240 places took 145900 µs
+
+17:11:47.262 [debug] Search in 539000 meters that found 212 of 212 places took 143173 µs
+
+17:11:47.487 [debug] Search in 540000 meters that found 131 of 131 places took 36633 µs
+
+17:11:47.786 [debug] Search in 541000 meters that found 237 of 237 places took 122219 µs
+
+17:11:48.060 [debug] Search in 542000 meters that found 174 of 174 places took 85392 µs
+
+17:11:48.355 [debug] Search in 543000 meters that found 248 of 248 places took 105342 µs
+
+17:11:48.757 [debug] Search in 544000 meters that found 267 of 267 places took 169137 µs
+
+17:11:49.062 [debug] Search in 545000 meters that found 235 of 235 places took 118148 µs
+
+17:11:49.355 [debug] Search in 546000 meters that found 250 of 250 places took 120245 µs
+
+17:11:49.620 [debug] Search in 547000 meters that found 255 of 255 places took 83045 µs
+
+17:11:49.921 [debug] Search in 548000 meters that found 277 of 277 places took 129340 µs
+
+17:11:50.192 [debug] Search in 549000 meters that found 276 of 276 places took 87372 µs
+
+17:11:50.478 [debug] Search in 550000 meters that found 229 of 229 places took 116673 µs
+
+17:11:50.775 [debug] Search in 551000 meters that found 243 of 243 places took 120842 µs
+
+17:11:51.087 [debug] Search in 552000 meters that found 240 of 240 places took 138851 µs
+
+17:11:51.431 [debug] Search in 553000 meters that found 283 of 283 places took 145020 µs
+
+17:11:51.869 [debug] Search in 554000 meters that found 240 of 240 places took 144739 µs
+
+17:11:52.093 [debug] Search in 555000 meters that found 157 of 157 places took 36295 µs
+
+17:11:52.352 [debug] Search in 556000 meters that found 251 of 251 places took 82443 µs
+
+17:11:52.621 [debug] Search in 557000 meters that found 255 of 255 places took 95788 µs
+
+17:11:52.923 [debug] Search in 558000 meters that found 245 of 245 places took 125476 µs
+
+17:11:53.203 [debug] Search in 559000 meters that found 288 of 288 places took 98121 µs
+
+17:11:53.444 [debug] Search in 560000 meters that found 213 of 213 places took 63861 µs
+
+17:11:53.740 [debug] Search in 561000 meters that found 263 of 263 places took 120646 µs
+
+17:11:53.977 [debug] Search in 562000 meters that found 184 of 184 places took 59056 µs
+
+17:11:54.297 [debug] Search in 563000 meters that found 282 of 282 places took 140555 µs
+
+17:11:54.650 [debug] Search in 564000 meters that found 292 of 292 places took 114897 µs
+
+17:11:55.066 [debug] Search in 565000 meters that found 258 of 258 places took 103673 µs
+
+17:11:55.375 [debug] Search in 566000 meters that found 288 of 288 places took 122850 µs
+
+17:11:55.677 [debug] Search in 567000 meters that found 267 of 267 places took 119006 µs
+
+17:11:55.980 [debug] Search in 568000 meters that found 266 of 266 places took 129885 µs
+
+17:11:56.285 [debug] Search in 569000 meters that found 322 of 322 places took 126545 µs
+
+17:11:56.547 [debug] Search in 570000 meters that found 254 of 254 places took 86478 µs
+
+17:11:56.844 [debug] Search in 571000 meters that found 252 of 252 places took 117497 µs
+
+17:11:57.128 [debug] Search in 572000 meters that found 253 of 253 places took 102036 µs
+
+17:11:57.417 [debug] Search in 573000 meters that found 276 of 276 places took 97783 µs
+
+17:11:57.719 [debug] Search in 574000 meters that found 206 of 206 places took 80289 µs
+
+17:11:58.087 [debug] Search in 575000 meters that found 282 of 282 places took 65399 µs
+
+17:11:58.360 [debug] Search in 576000 meters that found 320 of 320 places took 95570 µs
+
+17:11:58.635 [debug] Search in 577000 meters that found 296 of 296 places took 95690 µs
+
+17:11:58.930 [debug] Search in 578000 meters that found 295 of 295 places took 118445 µs
+
+17:11:59.230 [debug] Search in 579000 meters that found 314 of 314 places took 122295 µs
+
+17:11:59.525 [debug] Search in 580000 meters that found 266 of 266 places took 118649 µs
+
+17:11:59.794 [debug] Search in 581000 meters that found 222 of 222 places took 85026 µs
+
+17:12:00.089 [debug] Search in 582000 meters that found 325 of 325 places took 118021 µs
+
+17:12:00.410 [debug] Search in 583000 meters that found 320 of 320 places took 143867 µs
+
+17:12:00.713 [debug] Search in 584000 meters that found 279 of 279 places took 108444 µs
+
+17:12:01.156 [debug] Search in 585000 meters that found 265 of 265 places took 131513 µs
+
+17:12:01.455 [debug] Search in 586000 meters that found 321 of 321 places took 119008 µs
+
+17:12:01.724 [debug] Search in 587000 meters that found 242 of 242 places took 94433 µs
+
+17:12:02.023 [debug] Search in 588000 meters that found 312 of 312 places took 119531 µs
+
+17:12:02.301 [debug] Search in 589000 meters that found 308 of 308 places took 100029 µs
+
+17:12:02.606 [debug] Search in 590000 meters that found 279 of 279 places took 118686 µs
+
+17:12:02.914 [debug] Search in 591000 meters that found 322 of 322 places took 118133 µs
+
+17:12:03.223 [debug] Search in 592000 meters that found 313 of 313 places took 123632 µs
+
+17:12:03.535 [debug] Search in 593000 meters that found 341 of 341 places took 106066 µs
+
+17:12:03.878 [debug] Search in 594000 meters that found 297 of 297 places took 162826 µs
+
+17:12:04.315 [debug] Search in 595000 meters that found 314 of 314 places took 171754 µs
+
+17:12:04.557 [debug] Search in 596000 meters that found 308 of 308 places took 56778 µs
+
+17:12:04.805 [debug] Search in 597000 meters that found 309 of 309 places took 79705 µs
+
+17:12:05.072 [debug] Search in 598000 meters that found 313 of 313 places took 86829 µs
+
+17:12:05.369 [debug] Search in 599000 meters that found 333 of 333 places took 121093 µs
+
+17:12:05.660 [debug] Search in 600000 meters that found 356 of 356 places took 80924 µs
+
+17:12:05.957 [debug] Search in 601000 meters that found 297 of 297 places took 122072 µs
+
+17:12:06.223 [debug] Search in 602000 meters that found 216 of 216 places took 90180 µs
+
+17:12:06.531 [debug] Search in 603000 meters that found 320 of 320 places took 135553 µs
+
+17:12:06.879 [debug] Search in 604000 meters that found 329 of 329 places took 160660 µs
+
+17:12:07.172 [debug] Search in 605000 meters that found 134 of 134 places took 23182 µs
+
+17:12:07.440 [debug] Search in 606000 meters that found 339 of 339 places took 90199 µs
+
+17:12:07.733 [debug] Search in 607000 meters that found 344 of 344 places took 123007 µs
+
+17:12:08.078 [debug] Search in 608000 meters that found 359 of 359 places took 157519 µs
+
+17:12:08.343 [debug] Search in 609000 meters that found 348 of 348 places took 92457 µs
+
+17:12:08.645 [debug] Search in 610000 meters that found 381 of 381 places took 127310 µs
+
+17:12:08.903 [debug] Search in 611000 meters that found 312 of 312 places took 78709 µs
+
+17:12:09.198 [debug] Search in 612000 meters that found 358 of 358 places took 120482 µs
+
+17:12:09.541 [debug] Search in 613000 meters that found 370 of 370 places took 172667 µs
+
+17:12:09.827 [debug] Search in 614000 meters that found 272 of 272 places took 94195 µs
+
+17:12:10.263 [debug] Search in 615000 meters that found 361 of 361 places took 135567 µs
+
+17:12:10.567 [debug] Search in 616000 meters that found 343 of 343 places took 119037 µs
+
+17:12:10.871 [debug] Search in 617000 meters that found 384 of 384 places took 122517 µs
+
+17:12:11.164 [debug] Search in 618000 meters that found 387 of 387 places took 116135 µs
+
+17:12:11.422 [debug] Search in 619000 meters that found 387 of 387 places took 81734 µs
+
+17:12:11.693 [debug] Search in 620000 meters that found 352 of 352 places took 95721 µs
+
+17:12:11.998 [debug] Search in 621000 meters that found 375 of 375 places took 132817 µs
+
+17:12:12.234 [debug] Search in 622000 meters that found 368 of 368 places took 63971 µs
+
+17:12:12.520 [debug] Search in 623000 meters that found 347 of 347 places took 114535 µs
+
+17:12:12.918 [debug] Search in 624000 meters that found 373 of 373 places took 184334 µs
+
+17:12:13.348 [debug] Search in 625000 meters that found 381 of 381 places took 132128 µs
+
+17:12:13.670 [debug] Search in 626000 meters that found 190 of 190 places took 144972 µs
+
+17:12:13.981 [debug] Search in 627000 meters that found 380 of 380 places took 119914 µs
+
+17:12:14.283 [debug] Search in 628000 meters that found 381 of 381 places took 126844 µs
+
+17:12:14.541 [debug] Search in 629000 meters that found 401 of 401 places took 87401 µs
+
+17:12:14.830 [debug] Search in 630000 meters that found 383 of 383 places took 119577 µs
+
+17:12:15.130 [debug] Search in 631000 meters that found 373 of 373 places took 120891 µs
+
+17:12:15.423 [debug] Search in 632000 meters that found 337 of 337 places took 116238 µs
+
+17:12:15.746 [debug] Search in 633000 meters that found 397 of 397 places took 144373 µs
+
+17:12:16.096 [debug] Search in 634000 meters that found 376 of 376 places took 140096 µs
+
+17:12:16.461 [debug] Search in 635000 meters that found 424 of 424 places took 120526 µs
+
+17:12:16.762 [debug] Search in 636000 meters that found 407 of 407 places took 118630 µs
+
+17:12:17.068 [debug] Search in 637000 meters that found 412 of 412 places took 124130 µs
+
+17:12:17.295 [debug] Search in 638000 meters that found 424 of 424 places took 51357 µs
+
+17:12:17.524 [debug] Search in 639000 meters that found 222 of 222 places took 50077 µs
+
+17:12:17.824 [debug] Search in 640000 meters that found 380 of 380 places took 122749 µs
+
+17:12:18.122 [debug] Search in 641000 meters that found 382 of 382 places took 118508 µs
+
+17:12:18.419 [debug] Search in 642000 meters that found 377 of 377 places took 117602 µs
+
+17:12:18.775 [debug] Search in 643000 meters that found 419 of 419 places took 177811 µs
+
+17:12:19.003 [debug] Search in 644000 meters that found 281 of 281 places took 46508 µs
+
+17:12:19.403 [debug] Search in 645000 meters that found 381 of 381 places took 91992 µs
+
+17:12:19.663 [debug] Search in 646000 meters that found 405 of 405 places took 80484 µs
+
+17:12:19.955 [debug] Search in 647000 meters that found 398 of 398 places took 117357 µs
+
+17:12:20.282 [debug] Search in 648000 meters that found 410 of 410 places took 140156 µs
+
+17:12:20.591 [debug] Search in 649000 meters that found 332 of 332 places took 108272 µs
+
+17:12:20.950 [debug] Search in 650000 meters that found 194 of 194 places took 36905 µs
+
+17:12:21.285 [debug] Search in 651000 meters that found 380 of 380 places took 134332 µs
+
+17:12:21.554 [debug] Search in 652000 meters that found 439 of 439 places took 83151 µs
+
+17:12:21.858 [debug] Search in 653000 meters that found 427 of 427 places took 117061 µs
+
+17:12:22.178 [debug] Search in 654000 meters that found 469 of 469 places took 124071 µs
+
+17:12:22.496 [debug] Search in 655000 meters that found 433 of 433 places took 116613 µs
+
+17:12:22.810 [debug] Search in 656000 meters that found 432 of 432 places took 126726 µs
+
+17:12:23.095 [debug] Search in 657000 meters that found 396 of 396 places took 93157 µs
+
+17:12:23.431 [debug] Search in 658000 meters that found 413 of 413 places took 141887 µs
+
+17:12:23.772 [debug] Search in 659000 meters that found 432 of 432 places took 151701 µs
+
+17:12:24.232 [debug] Search in 660000 meters that found 467 of 467 places took 137266 µs
+
+17:12:24.583 [debug] Search in 661000 meters that found 444 of 444 places took 131898 µs
+
+17:12:24.812 [debug] Search in 662000 meters that found 344 of 344 places took 49866 µs
+
+17:12:25.091 [debug] Search in 663000 meters that found 444 of 444 places took 91707 µs
+
+17:12:25.373 [debug] Search in 664000 meters that found 417 of 417 places took 91265 µs
+
+17:12:25.672 [debug] Search in 665000 meters that found 452 of 452 places took 118395 µs
+
+17:12:25.879 [debug] Search in 666000 meters that found 327 of 327 places took 28347 µs
+
+17:12:26.191 [debug] Search in 667000 meters that found 454 of 454 places took 117809 µs
+
+17:12:26.519 [debug] Search in 668000 meters that found 425 of 425 places took 144686 µs
+
+17:12:26.851 [debug] Search in 669000 meters that found 445 of 445 places took 106643 µs
+
+17:12:27.253 [debug] Search in 670000 meters that found 405 of 405 places took 96691 µs
+
+17:12:27.480 [debug] Search in 671000 meters that found 347 of 347 places took 40809 µs
+
+17:12:27.738 [debug] Search in 672000 meters that found 411 of 411 places took 64547 µs
+
+17:12:27.981 [debug] Search in 673000 meters that found 274 of 274 places took 51642 µs
+
+17:12:28.302 [debug] Search in 674000 meters that found 472 of 472 places took 129111 µs
+
+17:12:28.574 [debug] Search in 675000 meters that found 459 of 459 places took 90892 µs
+
+17:12:28.852 [debug] Search in 676000 meters that found 431 of 431 places took 89743 µs
+
+17:12:29.163 [debug] Search in 677000 meters that found 497 of 497 places took 118600 µs
+
+17:12:29.477 [debug] Search in 678000 meters that found 474 of 474 places took 127574 µs
+
+17:12:29.785 [debug] Search in 679000 meters that found 490 of 490 places took 114121 µs
+
+17:12:30.232 [debug] Search in 680000 meters that found 507 of 507 places took 150121 µs
+
+17:12:30.518 [debug] Search in 681000 meters that found 476 of 476 places took 88087 µs
+
+17:12:30.804 [debug] Search in 682000 meters that found 494 of 494 places took 115474 µs
+
+17:12:31.091 [debug] Search in 683000 meters that found 464 of 464 places took 88248 µs
+
+17:12:31.409 [debug] Search in 684000 meters that found 512 of 512 places took 133146 µs
+
+17:12:31.696 [debug] Search in 685000 meters that found 463 of 463 places took 92104 µs
+
+17:12:31.981 [debug] Search in 686000 meters that found 503 of 503 places took 91510 µs
+
+17:12:32.279 [debug] Search in 687000 meters that found 504 of 504 places took 89526 µs
+
+17:12:32.589 [debug] Search in 688000 meters that found 520 of 520 places took 132036 µs
+
+17:12:32.941 [debug] Search in 689000 meters that found 537 of 537 places took 157031 µs
+
+17:12:33.379 [debug] Search in 690000 meters that found 492 of 492 places took 128451 µs
+
+17:12:33.635 [debug] Search in 691000 meters that found 469 of 469 places took 63421 µs
+
+17:12:33.954 [debug] Search in 692000 meters that found 496 of 496 places took 116747 µs
+
+17:12:34.270 [debug] Search in 693000 meters that found 491 of 491 places took 113972 µs
+
+17:12:34.575 [debug] Search in 694000 meters that found 486 of 486 places took 111322 µs
+
+17:12:34.850 [debug] Search in 695000 meters that found 523 of 523 places took 88707 µs
+
+17:12:35.141 [debug] Search in 696000 meters that found 522 of 522 places took 90096 µs
+
+17:12:35.460 [debug] Search in 697000 meters that found 507 of 507 places took 118666 µs
+
+17:12:35.743 [debug] Search in 698000 meters that found 503 of 503 places took 92918 µs
+
+17:12:36.098 [debug] Search in 699000 meters that found 515 of 515 places took 164599 µs
+
+17:12:36.500 [debug] Search in 700000 meters that found 478 of 478 places took 131753 µs
+
+17:12:36.811 [debug] Search in 701000 meters that found 569 of 569 places took 119323 µs
+
+17:12:37.080 [debug] Search in 702000 meters that found 522 of 522 places took 73115 µs
+
+17:12:37.384 [debug] Search in 703000 meters that found 557 of 557 places took 113239 µs
+
+17:12:37.677 [debug] Search in 704000 meters that found 523 of 523 places took 99329 µs
+
+17:12:37.978 [debug] Search in 705000 meters that found 517 of 517 places took 113592 µs
+
+17:12:38.282 [debug] Search in 706000 meters that found 552 of 552 places took 119315 µs
+
+17:12:38.608 [debug] Search in 707000 meters that found 515 of 515 places took 135988 µs
+
+17:12:38.942 [debug] Search in 708000 meters that found 555 of 555 places took 137655 µs
+
+17:12:39.333 [debug] Search in 709000 meters that found 497 of 497 places took 122013 µs
+
+17:12:39.607 [debug] Search in 710000 meters that found 525 of 525 places took 79054 µs
+
+17:12:39.910 [debug] Search in 711000 meters that found 551 of 551 places took 118819 µs
+
+17:12:40.188 [debug] Search in 712000 meters that found 577 of 577 places took 90599 µs
+
+17:12:40.445 [debug] Search in 713000 meters that found 508 of 508 places took 62726 µs
+
+17:12:40.748 [debug] Search in 714000 meters that found 556 of 556 places took 122144 µs
+
+17:12:41.030 [debug] Search in 715000 meters that found 556 of 556 places took 90917 µs
+
+17:12:41.316 [debug] Search in 716000 meters that found 595 of 595 places took 92926 µs
+
+17:12:41.643 [debug] Search in 717000 meters that found 560 of 560 places took 132666 µs
+
+17:12:41.982 [debug] Search in 718000 meters that found 581 of 581 places took 149386 µs
+
+17:12:42.422 [debug] Search in 719000 meters that found 557 of 557 places took 200726 µs
+
+17:12:42.740 [debug] Search in 720000 meters that found 591 of 591 places took 121593 µs
+
+17:12:43.049 [debug] Search in 721000 meters that found 541 of 541 places took 113660 µs
+
+17:12:43.309 [debug] Search in 722000 meters that found 543 of 543 places took 69215 µs
+
+17:12:43.543 [debug] Search in 723000 meters that found 281 of 281 places took 42911 µs
+
+17:12:43.851 [debug] Search in 724000 meters that found 612 of 612 places took 120996 µs
+
+17:12:44.167 [debug] Search in 725000 meters that found 571 of 571 places took 123559 µs
+
+17:12:44.442 [debug] Search in 726000 meters that found 625 of 625 places took 86860 µs
+
+17:12:44.707 [debug] Search in 727000 meters that found 612 of 612 places took 87001 µs
+
+17:12:45.043 [debug] Search in 728000 meters that found 626 of 626 places took 148010 µs
+
+17:12:45.449 [debug] Search in 729000 meters that found 556 of 556 places took 186252 µs
+
+17:12:45.756 [debug] Search in 730000 meters that found 457 of 457 places took 74842 µs
+
+17:12:46.042 [debug] Search in 731000 meters that found 453 of 453 places took 87839 µs
+
+17:12:46.281 [debug] Search in 732000 meters that found 375 of 375 places took 45299 µs
+
+17:12:46.585 [debug] Search in 733000 meters that found 592 of 592 places took 121029 µs
+
+17:12:46.870 [debug] Search in 734000 meters that found 633 of 633 places took 97682 µs
+
+17:12:47.155 [debug] Search in 735000 meters that found 603 of 603 places took 95605 µs
+
+17:12:47.424 [debug] Search in 736000 meters that found 600 of 600 places took 84567 µs
+
+17:12:47.687 [debug] Search in 737000 meters that found 590 of 590 places took 79944 µs
+
+17:12:48.025 [debug] Search in 738000 meters that found 606 of 606 places took 146446 µs
+
+17:12:48.396 [debug] Search in 739000 meters that found 605 of 605 places took 142794 µs
+
+17:12:48.784 [debug] Search in 740000 meters that found 613 of 613 places took 86693 µs
+
+17:12:49.046 [debug] Search in 741000 meters that found 647 of 647 places took 60920 µs
+
+17:12:49.347 [debug] Search in 742000 meters that found 615 of 615 places took 112344 µs
+
+17:12:49.644 [debug] Search in 743000 meters that found 618 of 618 places took 89888 µs
+
+17:12:49.957 [debug] Search in 744000 meters that found 625 of 625 places took 114748 µs
+
+17:12:50.276 [debug] Search in 745000 meters that found 602 of 602 places took 116766 µs
+
+17:12:50.552 [debug] Search in 746000 meters that found 595 of 595 places took 84655 µs
+
+17:12:50.790 [debug] Search in 747000 meters that found 520 of 520 places took 51032 µs
+
+17:12:51.076 [debug] Search in 748000 meters that found 604 of 604 places took 106440 µs
+
+17:12:51.368 [debug] Search in 749000 meters that found 467 of 467 places took 96248 µs
+
+17:12:51.789 [debug] Search in 750000 meters that found 686 of 686 places took 129200 µs
+
+17:12:52.076 [debug] Search in 751000 meters that found 633 of 633 places took 80127 µs
+
+17:12:52.392 [debug] Search in 752000 meters that found 646 of 646 places took 130355 µs
+
+17:12:52.655 [debug] Search in 753000 meters that found 497 of 497 places took 63512 µs
+
+17:12:52.931 [debug] Search in 754000 meters that found 308 of 308 places took 69545 µs
+
+17:12:53.369 [debug] Search in 755000 meters that found 685 of 685 places took 105027 µs
+
+17:12:53.685 [debug] Search in 756000 meters that found 636 of 636 places took 117385 µs
+
+17:12:53.993 [debug] Search in 757000 meters that found 664 of 664 places took 120668 µs
+
+17:12:54.308 [debug] Search in 758000 meters that found 655 of 655 places took 120757 µs
+
+17:12:54.585 [debug] Search in 759000 meters that found 499 of 499 places took 52601 µs
+
+17:12:54.891 [debug] Search in 760000 meters that found 673 of 673 places took 116212 µs
+
+17:12:55.217 [debug] Search in 761000 meters that found 669 of 669 places took 117442 µs
+
+17:12:55.463 [debug] Search in 762000 meters that found 541 of 541 places took 58956 µs
+
+17:12:55.791 [debug] Search in 763000 meters that found 673 of 673 places took 141596 µs
+
+17:12:56.213 [debug] Search in 764000 meters that found 685 of 685 places took 175126 µs
+
+17:12:56.539 [debug] Search in 765000 meters that found 707 of 707 places took 112581 µs
+
+17:12:56.844 [debug] Search in 766000 meters that found 676 of 676 places took 118642 µs
+
+17:12:57.126 [debug] Search in 767000 meters that found 662 of 662 places took 94371 µs
+
+17:12:57.390 [debug] Search in 768000 meters that found 471 of 471 places took 75553 µs
+
+17:12:57.667 [debug] Search in 769000 meters that found 704 of 704 places took 83313 µs
+
+17:12:57.970 [debug] Search in 770000 meters that found 670 of 670 places took 118020 µs
+
+17:12:58.281 [debug] Search in 771000 meters that found 707 of 707 places took 116129 µs
+
+17:12:58.589 [debug] Search in 772000 meters that found 721 of 721 places took 127601 µs
+
+17:12:58.879 [debug] Search in 773000 meters that found 403 of 403 places took 96538 µs
+
+17:12:59.286 [debug] Search in 774000 meters that found 699 of 699 places took 172820 µs
+
+17:12:59.611 [debug] Search in 775000 meters that found 694 of 694 places took 89496 µs
+
+17:12:59.868 [debug] Search in 776000 meters that found 699 of 699 places took 79065 µs
+
+17:13:00.159 [debug] Search in 777000 meters that found 752 of 752 places took 115029 µs
+
+17:13:00.392 [debug] Search in 778000 meters that found 699 of 699 places took 60925 µs
+
+17:13:00.677 [debug] Search in 779000 meters that found 689 of 689 places took 114751 µs
+
+17:13:00.965 [debug] Search in 780000 meters that found 707 of 707 places took 120663 µs
+
+17:13:01.247 [debug] Search in 781000 meters that found 618 of 618 places took 80603 µs
+
+17:13:01.552 [debug] Search in 782000 meters that found 717 of 717 places took 115971 µs
+
+17:13:01.811 [debug] Search in 783000 meters that found 566 of 566 places took 73008 µs
+
+17:13:02.175 [debug] Search in 784000 meters that found 731 of 731 places took 142210 µs
+
+17:13:02.549 [debug] Search in 785000 meters that found 432 of 432 places took 86698 µs
+
+17:13:02.823 [debug] Search in 786000 meters that found 768 of 768 places took 91145 µs
+
+17:13:03.136 [debug] Search in 787000 meters that found 746 of 746 places took 115840 µs
+
+17:13:03.445 [debug] Search in 788000 meters that found 759 of 759 places took 114886 µs
+
+17:13:03.765 [debug] Search in 789000 meters that found 719 of 719 places took 115284 µs
+
+17:13:04.069 [debug] Search in 790000 meters that found 761 of 761 places took 117127 µs
+
+17:13:04.316 [debug] Search in 791000 meters that found 586 of 586 places took 61266 µs
+
+17:13:04.622 [debug] Search in 792000 meters that found 776 of 776 places took 118796 µs
+
+17:13:04.953 [debug] Search in 793000 meters that found 772 of 772 places took 137036 µs
+
+17:13:05.344 [debug] Search in 794000 meters that found 737 of 737 places took 159040 µs
+
+17:13:05.738 [debug] Search in 795000 meters that found 735 of 735 places took 148963 µs
+
+17:13:06.131 [debug] Search in 796000 meters that found 756 of 756 places took 122953 µs
+
+17:13:06.397 [debug] Search in 797000 meters that found 777 of 777 places took 69958 µs
+
+17:13:06.686 [debug] Search in 798000 meters that found 817 of 817 places took 116377 µs
+
+17:13:06.968 [debug] Search in 799000 meters that found 779 of 779 places took 113803 µs
+
+17:13:07.264 [debug] Search in 800000 meters that found 795 of 795 places took 103510 µs
+
+17:13:07.571 [debug] Search in 801000 meters that found 724 of 724 places took 117558 µs
+
+17:13:07.900 [debug] Search in 802000 meters that found 769 of 769 places took 144445 µs
+
+17:13:08.219 [debug] Search in 803000 meters that found 808 of 808 places took 127059 µs
+
+17:13:08.573 [debug] Search in 804000 meters that found 518 of 518 places took 77880 µs
+
+17:13:08.838 [debug] Search in 805000 meters that found 791 of 791 places took 80556 µs
+
+17:13:09.164 [debug] Search in 806000 meters that found 760 of 760 places took 130417 µs
+
+17:13:09.446 [debug] Search in 807000 meters that found 872 of 872 places took 88213 µs
+
+17:13:09.730 [debug] Search in 808000 meters that found 804 of 804 places took 89309 µs
+
+17:13:10.037 [debug] Search in 809000 meters that found 822 of 822 places took 118538 µs
+
+17:13:10.298 [debug] Search in 810000 meters that found 617 of 617 places took 52576 µs
+
+17:13:10.593 [debug] Search in 811000 meters that found 868 of 868 places took 116810 µs
+
+17:13:10.925 [debug] Search in 812000 meters that found 796 of 796 places took 145361 µs
+
+17:13:11.214 [debug] Search in 813000 meters that found 725 of 725 places took 89244 µs
+
+17:13:11.510 [debug] Search in 814000 meters that found 537 of 537 places took 78636 µs
+
+17:13:11.948 [debug] Search in 815000 meters that found 837 of 837 places took 150147 µs
+
+17:13:12.245 [debug] Search in 816000 meters that found 785 of 785 places took 107155 µs
+
+17:13:12.564 [debug] Search in 817000 meters that found 809 of 809 places took 134855 µs
+
+17:13:12.895 [debug] Search in 818000 meters that found 853 of 853 places took 145848 µs
+
+17:13:13.238 [debug] Search in 819000 meters that found 798 of 798 places took 153685 µs
+
+17:13:13.474 [debug] Search in 820000 meters that found 411 of 411 places took 49723 µs
+
+17:13:13.770 [debug] Search in 821000 meters that found 827 of 827 places took 115142 µs
+
+17:13:14.089 [debug] Search in 822000 meters that found 877 of 877 places took 132009 µs
+
+17:13:14.464 [debug] Search in 823000 meters that found 802 of 802 places took 166049 µs
+
+17:13:14.942 [debug] Search in 824000 meters that found 825 of 825 places took 144211 µs
+
+17:13:15.251 [debug] Search in 825000 meters that found 862 of 862 places took 107720 µs
+
+17:13:15.599 [debug] Search in 826000 meters that found 867 of 867 places took 118173 µs
+
+17:13:15.834 [debug] Search in 827000 meters that found 420 of 420 places took 40856 µs
+
+17:13:16.152 [debug] Search in 828000 meters that found 840 of 840 places took 132860 µs
+
+17:13:16.392 [debug] Search in 829000 meters that found 612 of 612 places took 35597 µs
+
+17:13:16.720 [debug] Search in 830000 meters that found 835 of 835 places took 133284 µs
+
+17:13:17.027 [debug] Search in 831000 meters that found 855 of 855 places took 117044 µs
+
+17:13:17.383 [debug] Search in 832000 meters that found 911 of 911 places took 174164 µs
+
+17:13:17.663 [debug] Search in 833000 meters that found 469 of 469 places took 62990 µs
+
+17:13:18.234 [debug] Search in 834000 meters that found 893 of 893 places took 193613 µs
+
+17:13:18.554 [debug] Search in 835000 meters that found 886 of 886 places took 116883 µs
+
+17:13:18.804 [debug] Search in 836000 meters that found 792 of 792 places took 61034 µs
+
+17:13:19.196 [debug] Search in 837000 meters that found 872 of 872 places took 197251 µs
+
+17:13:19.561 [debug] Search in 838000 meters that found 912 of 912 places took 161974 µs
+
+17:13:19.927 [debug] Search in 839000 meters that found 903 of 903 places took 177401 µs
+
+17:13:20.293 [debug] Search in 840000 meters that found 904 of 904 places took 171666 µs
+
+17:13:20.666 [debug] Search in 841000 meters that found 901 of 901 places took 160701 µs
+
+17:13:21.063 [debug] Search in 842000 meters that found 886 of 886 places took 182448 µs
+
+17:13:21.611 [debug] Search in 843000 meters that found 924 of 924 places took 196107 µs
+
+17:13:21.989 [debug] Search in 844000 meters that found 863 of 863 places took 177422 µs
+
+17:13:22.385 [debug] Search in 845000 meters that found 871 of 871 places took 200936 µs
+
+17:13:22.690 [debug] Search in 846000 meters that found 720 of 720 places took 103860 µs
+
+17:13:23.023 [debug] Search in 847000 meters that found 867 of 867 places took 127014 µs
+
+17:13:23.362 [debug] Search in 848000 meters that found 925 of 925 places took 149646 µs
+
+17:13:23.741 [debug] Search in 849000 meters that found 869 of 869 places took 181212 µs
+
+17:13:24.079 [debug] Search in 850000 meters that found 825 of 825 places took 120009 µs
+
+17:13:24.503 [debug] Search in 851000 meters that found 928 of 928 places took 199776 µs
+
+17:13:25.057 [debug] Search in 852000 meters that found 924 of 924 places took 185217 µs
+
+17:13:25.379 [debug] Search in 853000 meters that found 901 of 901 places took 117949 µs
+
+17:13:25.757 [debug] Search in 854000 meters that found 987 of 987 places took 173348 µs
+
+17:13:26.174 [debug] Search in 855000 meters that found 970 of 970 places took 208043 µs
+
+17:13:26.497 [debug] Search in 856000 meters that found 941 of 941 places took 117235 µs
+
+17:13:26.776 [debug] Search in 857000 meters that found 906 of 906 places took 90255 µs
+
+17:13:27.049 [debug] Search in 858000 meters that found 951 of 951 places took 86034 µs
+
+17:13:27.336 [debug] Search in 859000 meters that found 935 of 935 places took 95774 µs
+
+17:13:27.699 [debug] Search in 860000 meters that found 969 of 969 places took 157190 µs
+
+17:13:28.164 [debug] Search in 861000 meters that found 913 of 913 places took 152257 µs
+
+17:13:28.461 [debug] Search in 862000 meters that found 846 of 846 places took 91366 µs
+
+17:13:28.700 [debug] Search in 863000 meters that found 714 of 714 places took 52542 µs
+
+17:13:29.018 [debug] Search in 864000 meters that found 1001 of 1001 places took 129084 µs
+
+17:13:29.323 [debug] Search in 865000 meters that found 979 of 979 places took 115543 µs
+
+17:13:29.594 [debug] Search in 866000 meters that found 1016 of 1016 places took 75636 µs
+
+17:13:29.902 [debug] Search in 867000 meters that found 980 of 980 places took 127160 µs
+
+17:13:30.196 [debug] Search in 868000 meters that found 843 of 843 places took 93475 µs
+
+17:13:30.516 [debug] Search in 869000 meters that found 1023 of 1023 places took 135860 µs
+
+17:13:30.869 [debug] Search in 870000 meters that found 1013 of 1013 places took 149607 µs
+
+17:13:31.286 [debug] Search in 871000 meters that found 976 of 976 places took 98703 µs
+
+17:13:31.597 [debug] Search in 872000 meters that found 967 of 967 places took 118596 µs
+
+17:13:31.915 [debug] Search in 873000 meters that found 1011 of 1011 places took 114552 µs
+
+17:13:32.203 [debug] Search in 874000 meters that found 871 of 871 places took 80241 µs
+
+17:13:32.411 [debug] Search in 875000 meters that found 527 of 527 places took 35140 µs
+
+17:13:32.721 [debug] Search in 876000 meters that found 1036 of 1036 places took 121697 µs
+
+17:13:32.983 [debug] Search in 877000 meters that found 867 of 867 places took 81021 µs
+
+17:13:33.265 [debug] Search in 878000 meters that found 764 of 764 places took 81237 µs
+
+17:13:33.576 [debug] Search in 879000 meters that found 1031 of 1031 places took 125963 µs
+
+17:13:33.878 [debug] Search in 880000 meters that found 1057 of 1057 places took 112059 µs
+
+17:13:34.312 [debug] Search in 881000 meters that found 1032 of 1032 places took 107193 µs
+
+17:13:34.595 [debug] Search in 882000 meters that found 1050 of 1050 places took 89643 µs
+
+17:13:34.852 [debug] Search in 883000 meters that found 860 of 860 places took 77202 µs
+
+17:13:35.157 [debug] Search in 884000 meters that found 1073 of 1073 places took 115399 µs
+
+17:13:35.414 [debug] Search in 885000 meters that found 1017 of 1017 places took 61946 µs
+
+17:13:35.724 [debug] Search in 886000 meters that found 1073 of 1073 places took 120681 µs
+
+17:13:36.041 [debug] Search in 887000 meters that found 983 of 983 places took 126795 µs
+
+17:13:36.346 [debug] Search in 888000 meters that found 1082 of 1082 places took 112739 µs
+
+17:13:36.660 [debug] Search in 889000 meters that found 1050 of 1050 places took 126836 µs
+
+17:13:36.990 [debug] Search in 890000 meters that found 1069 of 1069 places took 139940 µs
+
+17:13:37.428 [debug] Search in 891000 meters that found 1112 of 1112 places took 131601 µs
+
+17:13:37.726 [debug] Search in 892000 meters that found 1042 of 1042 places took 101958 µs
+
+17:13:38.021 [debug] Search in 893000 meters that found 977 of 977 places took 112661 µs
+
+17:13:38.364 [debug] Search in 894000 meters that found 1051 of 1051 places took 142763 µs
+
+17:13:38.672 [debug] Search in 895000 meters that found 1132 of 1132 places took 125120 µs
+
+17:13:38.951 [debug] Search in 896000 meters that found 1108 of 1108 places took 89268 µs
+
+17:13:39.269 [debug] Search in 897000 meters that found 1124 of 1124 places took 120276 µs
+
+17:13:39.542 [debug] Search in 898000 meters that found 1132 of 1132 places took 81861 µs
+
+17:13:39.867 [debug] Search in 899000 meters that found 1065 of 1065 places took 141057 µs
+
+17:13:40.237 [debug] Search in 900000 meters that found 1081 of 1081 places took 166050 µs
+
+17:13:40.630 [debug] Search in 901000 meters that found 1108 of 1108 places took 119337 µs
+
+17:13:40.911 [debug] Search in 902000 meters that found 627 of 627 places took 77956 µs
+
+17:13:41.238 [debug] Search in 903000 meters that found 1123 of 1123 places took 117832 µs
+
+17:13:41.548 [debug] Search in 904000 meters that found 1169 of 1169 places took 109955 µs
+
+17:13:41.828 [debug] Search in 905000 meters that found 904 of 904 places took 89900 µs
+
+17:13:42.106 [debug] Search in 906000 meters that found 843 of 843 places took 79464 µs
+
+17:13:42.424 [debug] Search in 907000 meters that found 1137 of 1137 places took 112571 µs
+
+17:13:42.733 [debug] Search in 908000 meters that found 1133 of 1133 places took 124206 µs
+
+17:13:43.044 [debug] Search in 909000 meters that found 1161 of 1161 places took 138973 µs
+
+17:13:43.452 [debug] Search in 910000 meters that found 1188 of 1188 places took 178221 µs
+
+17:13:43.758 [debug] Search in 911000 meters that found 1144 of 1144 places took 117518 µs
+
+17:13:44.067 [debug] Search in 912000 meters that found 1149 of 1149 places took 118151 µs
+
+17:13:44.293 [debug] Search in 913000 meters that found 800 of 800 places took 50164 µs
+
+17:13:44.610 [debug] Search in 914000 meters that found 1145 of 1145 places took 115538 µs
+
+17:13:44.921 [debug] Search in 915000 meters that found 1177 of 1177 places took 113129 µs
+
+17:13:45.231 [debug] Search in 916000 meters that found 1201 of 1201 places took 118189 µs
+
+17:13:45.540 [debug] Search in 917000 meters that found 1179 of 1179 places took 111125 µs
+
+17:13:45.866 [debug] Search in 918000 meters that found 1229 of 1229 places took 133672 µs
+
+17:13:46.221 [debug] Search in 919000 meters that found 1232 of 1232 places took 142288 µs
+
+17:13:46.649 [debug] Search in 920000 meters that found 1167 of 1167 places took 125069 µs
+
+17:13:46.924 [debug] Search in 921000 meters that found 1089 of 1089 places took 89222 µs
+
+17:13:47.233 [debug] Search in 922000 meters that found 1204 of 1204 places took 117632 µs
+
+17:13:47.545 [debug] Search in 923000 meters that found 1288 of 1288 places took 114225 µs
+
+17:13:47.797 [debug] Search in 924000 meters that found 944 of 944 places took 77754 µs
+
+17:13:48.076 [debug] Search in 925000 meters that found 1201 of 1201 places took 81684 µs
+
+17:13:48.390 [debug] Search in 926000 meters that found 1205 of 1205 places took 111874 µs
+
+17:13:48.636 [debug] Search in 927000 meters that found 885 of 885 places took 53140 µs
+
+17:13:48.939 [debug] Search in 928000 meters that found 1203 of 1203 places took 124053 µs
+
+17:13:49.251 [debug] Search in 929000 meters that found 1172 of 1172 places took 108826 µs
+
+17:13:49.628 [debug] Search in 930000 meters that found 725 of 725 places took 68757 µs
+
+17:13:49.911 [debug] Search in 931000 meters that found 1185 of 1185 places took 88073 µs
+
+17:13:50.222 [debug] Search in 932000 meters that found 1188 of 1188 places took 114606 µs
+
+17:13:50.528 [debug] Search in 933000 meters that found 1186 of 1186 places took 115898 µs
+
+17:13:50.745 [debug] Search in 934000 meters that found 741 of 741 places took 28330 µs
+
+17:13:51.049 [debug] Search in 935000 meters that found 1252 of 1252 places took 117087 µs
+
+17:13:51.356 [debug] Search in 936000 meters that found 1242 of 1242 places took 115180 µs
+
+17:13:51.662 [debug] Search in 937000 meters that found 1246 of 1246 places took 117305 µs
+
+17:13:51.971 [debug] Search in 938000 meters that found 1260 of 1260 places took 128482 µs
+
+17:13:52.301 [debug] Search in 939000 meters that found 1178 of 1178 places took 139021 µs
+
+17:13:52.722 [debug] Search in 940000 meters that found 1284 of 1284 places took 112394 µs
+
+17:13:53.032 [debug] Search in 941000 meters that found 1229 of 1229 places took 119083 µs
+
+17:13:53.342 [debug] Search in 942000 meters that found 1331 of 1331 places took 118590 µs
+
+17:13:53.603 [debug] Search in 943000 meters that found 1036 of 1036 places took 78284 µs
+
+17:13:53.912 [debug] Search in 944000 meters that found 1261 of 1261 places took 117165 µs
+
+17:13:54.223 [debug] Search in 945000 meters that found 1303 of 1303 places took 118529 µs
+
+17:13:54.506 [debug] Search in 946000 meters that found 969 of 969 places took 84374 µs
+
+17:13:54.813 [debug] Search in 947000 meters that found 1271 of 1271 places took 114359 µs
+
+17:13:55.135 [debug] Search in 948000 meters that found 1303 of 1303 places took 138047 µs
+
+17:13:55.503 [debug] Search in 949000 meters that found 1250 of 1250 places took 138341 µs
+
+17:13:55.966 [debug] Search in 950000 meters that found 1310 of 1310 places took 132193 µs
+
+17:13:56.261 [debug] Search in 951000 meters that found 1317 of 1317 places took 90317 µs
+
+17:13:56.581 [debug] Search in 952000 meters that found 1315 of 1315 places took 128351 µs
+
+17:13:56.882 [debug] Search in 953000 meters that found 978 of 978 places took 107120 µs
+
+17:13:57.249 [debug] Search in 954000 meters that found 1297 of 1297 places took 133161 µs
+
+17:13:57.564 [debug] Search in 955000 meters that found 1292 of 1292 places took 109966 µs
+
+17:13:57.839 [debug] Search in 956000 meters that found 870 of 870 places took 83240 µs
+
+17:13:58.153 [debug] Search in 957000 meters that found 1382 of 1382 places took 121582 µs
+
+17:13:58.460 [debug] Search in 958000 meters that found 1299 of 1299 places took 114215 µs
+
+17:13:58.768 [debug] Search in 959000 meters that found 1342 of 1342 places took 115101 µs
+
+17:13:59.057 [debug] Search in 960000 meters that found 1334 of 1334 places took 85300 µs
+
+17:13:59.352 [debug] Search in 961000 meters that found 1408 of 1408 places took 89950 µs
+
+17:13:59.591 [debug] Search in 962000 meters that found 842 of 842 places took 55438 µs
+
+17:13:59.935 [debug] Search in 963000 meters that found 1429 of 1429 places took 152317 µs
+
+17:14:00.290 [debug] Search in 964000 meters that found 850 of 850 places took 84540 µs
+
+17:14:00.667 [debug] Search in 965000 meters that found 1322 of 1322 places took 141550 µs
+
+17:14:00.997 [debug] Search in 966000 meters that found 1390 of 1390 places took 119282 µs
+
+17:14:01.333 [debug] Search in 967000 meters that found 1398 of 1398 places took 144426 µs
+
+17:14:01.629 [debug] Search in 968000 meters that found 1336 of 1336 places took 117359 µs
+
+17:14:01.913 [debug] Search in 969000 meters that found 1410 of 1410 places took 88673 µs
+
+17:14:02.243 [debug] Search in 970000 meters that found 1399 of 1399 places took 142158 µs
+
+17:14:02.523 [debug] Search in 971000 meters that found 803 of 803 places took 85071 µs
+
+17:14:02.852 [debug] Search in 972000 meters that found 1498 of 1498 places took 143032 µs
+
+17:14:03.181 [debug] Search in 973000 meters that found 1360 of 1360 places took 107023 µs
+
+17:14:03.642 [debug] Search in 974000 meters that found 1389 of 1389 places took 132568 µs
+
+17:14:03.957 [debug] Search in 975000 meters that found 1434 of 1434 places took 117350 µs
+
+17:14:04.247 [debug] Search in 976000 meters that found 1361 of 1361 places took 88236 µs
+
+17:14:04.467 [debug] Search in 977000 meters that found 512 of 512 places took 26091 µs
+
+17:14:04.737 [debug] Search in 978000 meters that found 1156 of 1156 places took 70229 µs
+
+17:14:05.049 [debug] Search in 979000 meters that found 1402 of 1402 places took 118692 µs
+
+17:14:05.359 [debug] Search in 980000 meters that found 1376 of 1376 places took 117273 µs
+
+17:14:05.673 [debug] Search in 981000 meters that found 1515 of 1515 places took 116488 µs
+
+17:14:05.934 [debug] Search in 982000 meters that found 1363 of 1363 places took 80824 µs
+
+17:14:06.200 [debug] Search in 983000 meters that found 1307 of 1307 places took 74790 µs
+
+17:14:06.585 [debug] Search in 984000 meters that found 966 of 966 places took 99603 µs
+
+17:14:06.895 [debug] Search in 985000 meters that found 1227 of 1227 places took 86933 µs
+
+17:14:07.210 [debug] Search in 986000 meters that found 1460 of 1460 places took 117083 µs
+
+17:14:07.524 [debug] Search in 987000 meters that found 1470 of 1470 places took 114978 µs
+
+17:14:07.834 [debug] Search in 988000 meters that found 1490 of 1490 places took 115580 µs
+
+17:14:08.144 [debug] Search in 989000 meters that found 1469 of 1469 places took 117089 µs
+
+17:14:08.434 [debug] Search in 990000 meters that found 1147 of 1147 places took 90194 µs
+
+17:14:08.709 [debug] Search in 991000 meters that found 1492 of 1492 places took 93271 µs
+
+17:14:09.017 [debug] Search in 992000 meters that found 1472 of 1472 places took 131004 µs
+
+17:14:09.344 [debug] Search in 993000 meters that found 1487 of 1487 places took 137001 µs
+
+17:14:09.768 [debug] Search in 994000 meters that found 1518 of 1518 places took 128521 µs
+
+17:14:10.047 [debug] Search in 995000 meters that found 1526 of 1526 places took 81497 µs
+
+17:14:10.342 [debug] Search in 996000 meters that found 1501 of 1501 places took 91951 µs
+
+17:14:10.593 [debug] Search in 997000 meters that found 1326 of 1326 places took 80058 µs
+
+17:14:10.872 [debug] Search in 998000 meters that found 1513 of 1513 places took 111459 µs
+
+17:14:11.135 [debug] Search in 999000 meters that found 1522 of 1522 places took 90606 µs
+
+17:14:11.420 [debug] Search in 1000000 meters that found 1567 of 1567 places took 111055 µs
+.
+
+Finished in 281.2 seconds (0.07s on load, 281.2s on tests)
+4 tests, 0 failures
+
+Randomized with seed 221602

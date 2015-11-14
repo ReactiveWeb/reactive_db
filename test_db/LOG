@@ -1,0 +1,31 @@
+2015/11/13-13:24:25.150517 b1873000                        Version: 2.1.3
+2015/11/13-13:24:25.150542 b1873000             Options.comparator: leveldb.InternalKeyComparator
+2015/11/13-13:24:25.150545 b1873000      Options.create_if_missing: 1
+2015/11/13-13:24:25.150548 b1873000        Options.error_if_exists: 0
+2015/11/13-13:24:25.150550 b1873000        Options.paranoid_checks: 0
+2015/11/13-13:24:25.150552 b1873000     Options.verify_compactions: 1
+2015/11/13-13:24:25.150554 b1873000                    Options.env: 0x7f8892d00400
+2015/11/13-13:24:25.150556 b1873000               Options.info_log: 0x7f8892e00f60
+2015/11/13-13:24:25.150559 b1873000      Options.write_buffer_size: 62914560
+2015/11/13-13:24:25.150561 b1873000         Options.max_open_files: 1000
+2015/11/13-13:24:25.150563 b1873000            Options.block_cache: 0x7f8894800e00
+2015/11/13-13:24:25.150565 b1873000             Options.block_size: 4096
+2015/11/13-13:24:25.150567 b1873000       Options.block_size_steps: 16
+2015/11/13-13:24:25.150570 b1873000 Options.block_restart_interval: 16
+2015/11/13-13:24:25.150581 b1873000            Options.compression: 1
+2015/11/13-13:24:25.150583 b1873000          Options.filter_policy: NULL
+2015/11/13-13:24:25.150585 b1873000              Options.is_repair: false
+2015/11/13-13:24:25.150587 b1873000         Options.is_internal_db: false
+2015/11/13-13:24:25.150590 b1873000      Options.total_leveldb_mem: 0
+2015/11/13-13:24:25.150592 b1873000  Options.block_cache_threshold: 33554432
+2015/11/13-13:24:25.150594 b1873000  Options.limited_developer_mem: false
+2015/11/13-13:24:25.150596 b1873000              Options.mmap_size: 0
+2015/11/13-13:24:25.150598 b1873000       Options.delete_threshold: 1000
+2015/11/13-13:24:25.150600 b1873000       Options.fadvise_willneed: false
+2015/11/13-13:24:25.150602 b1873000      Options.tiered_slow_level: 0
+2015/11/13-13:24:25.150604 b1873000     Options.tiered_fast_prefix: test_db
+2015/11/13-13:24:25.150606 b1873000     Options.tiered_slow_prefix: test_db
+2015/11/13-13:24:25.150608 b1873000                         crc32c: hardware
+2015/11/13-13:24:25.150610 b1873000                File cache size: 186642432
+2015/11/13-13:24:25.150613 b1873000               Block cache size: 188739584
+2015/11/13-13:24:25.152256 b1873000 Delete type=3 #1
