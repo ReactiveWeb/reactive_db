@@ -2,7 +2,6 @@ defmodule Reactive.EntitiesIndexDb do
   require Logger
 
   def create({db,index_name}) do
-    ### TODO: Add begin - end
     Reactive.Db.put(db,"ei:" <> index_name <> ":a","entity index begin")
     Reactive.Db.put(db,"ei:" <> index_name <> ":z","entity index end")
     {db,index_name}
