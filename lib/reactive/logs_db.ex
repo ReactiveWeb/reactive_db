@@ -6,7 +6,6 @@ defmodule Reactive.LogsDb do
   end
   
   def create(db,log_id) do
-    ### TODO: Add begin - end
     Reactive.Db.put(db,log_id <> ":a","log begin")
     Reactive.Db.put(db,log_id <> ":z","log end")
 

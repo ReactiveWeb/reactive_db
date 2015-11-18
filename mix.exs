@@ -3,9 +3,7 @@ defmodule ReactiveDb.Mixfile do
 
   def project do
     [app: :reactive_db,
-     version: "0.0.1",
-     deps_path: "../../deps",
-     lockfile: "../../mix.lock",
+     version: "0.1.0",
      elixir: "~> 1.0.0",
      deps: deps]
   end
