@@ -20,7 +20,7 @@ defmodule Reactive.LogsDb do
   def get(logRef=%{ db: db, log_id: log_id},key,default \\ :not_found) do
     case Reactive.Db.get(db,log_id <> ":l:" <> key) do
       :not_found -> :not_found
-      value -> :erlang.binary_to_term(value)
+      {:ok,value} -> {:ok,:erlang.binary_to_term(value)}
     end
   end
   def delete(logRef=%{ db: db, log_id: log_id},key) do
